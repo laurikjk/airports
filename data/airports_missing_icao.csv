@@ -1,0 +1,942 @@
+,IATA,ICAO,Airport name,Location served,Time,DST
+18,AAS,,Apalapsili Airport,"Apalapsili, Indonesia",UTC+09:00,
+40,ABP,,Atkamba Airport,"Atkamba, Papua New Guinea",UTC+10:00,
+47,ABW,,Abau Airport,"Abau, Papua New Guinea",UTC+10:00,
+60,ACL,,Aguaclara Airport,"Aguaclara, Colombia",UTC−05:00,
+61,ACM,,Arica Airport,"Arica, Colombia",UTC−05:00,
+67,ACU,,Achutupo Airport,"Achutupo, Panama",UTC−05:00,
+93,ADV,,Ed Daein Airport,"Ed Daein, Sudan",UTC+03:00,
+100,AEE,,Adareil Airport[1],"Adareil, South Sudan",UTC+03:00,
+108,AEQ,,Ar Horqin Airport,"Ar Horqin Banner, China",UTC+08:00,
+119,AFK,,Kondavattavan Tank Seaplane Base[1],"Ampara, Sri Lanka",UTC+05:30,
+135,AGG,,Angoram Airport,"Angoram, Papua New Guinea",UTC+10:00,
+139,AGK,,Kagua Airport,"Kagua, Papua New Guinea",UTC+10:00,
+150,AGW,,Agnew Airport,"Agnew, Queensland, Australia",UTC+10:00,
+155,AHD,,Ardmore Downtown Executive Airport (FAA: 1F0),"Ardmore, Oklahoma, United States",UTC−06:00,Mar-Nov
+157,AHF,,Arapahoe Municipal Airport (FAA: 37V),"Arapahoe, Nebraska, United States",UTC−06:00,Mar-Nov
+162,AHM,,Ashland Municipal Airport[1] (FAA: S03),"Ashland, Oregon, United States",UTC−08:00,Mar-Nov
+167,AHW,,Saih Rawl Airport[1],"Saih Rawl, Oman",UTC+04:00,
+168,AHY,,Ambatolahy Airport,"Ambatolahy, Madagascar",UTC+03:00,
+171,AIC,,Ailinglaplap Airok Airport,"Airok, Ailinglaplap Atoll, Marshall Islands",UTC+12:00,
+179,AIL,,Ailigandí Airport,"Ailigandí, Panama",UTC−05:00,
+180,AIM,,Ailuk Airport,"Ailuk Atoll, Marshall Islands",UTC+12:00,
+189,AIW,,Ai-Ais Airport,"Ai-Ais, Namibia",UTC+02:00,Sep-Apr
+214,AKM,,Zakouma Airport,"Zakouma National Park, Chad",UTC+01:00,
+231,ALE,,Alpine–Casparis Municipal Airport (FAA: E38),"Alpine, Texas, United States",UTC−06:00,Mar-Nov
+237,ALK,,Asella Airport,"Asella, Ethiopia",UTC+03:00,
+246,ALT,,Alenquer Airport,"Alenquer, Pará, Brazil",UTC−03:00,
+251,ALZ,,Alitak Seaplane Base,"Lazy Bay, Alaska, United States",UTC−09:00,Mar-Nov
+256,AME,,Alto Molocue Airport,"Alto Molocue, Mozambique",UTC+02:00,
+258,AMG,,Amboin Airport,"Amboin, Papua New Guinea",UTC+10:00,
+262,AMK,,Animas Air Park (FAA: 00C),"Durango, Colorado, United States",UTC−07:00,Mar-Nov
+263,AML,,Puerto Armuelles Airport,"Puerto Armuelles, Panama",UTC−05:00,
+274,AMX,,Ammaroo Airport,"Ammaroo, Northern Territory, Australia",UTC+09:30,
+275,AMY,,Ambatomainty Airport,"Ambatomainty, Madagascar",UTC+03:00,
+287,ANL,,Andulo Airport,"Andulo, Angola",UTC+01:00,
+300,ANZ,,Angus Downs Airport,"Angus Downs, Northern Territory, Australia",UTC+09:30,
+301,AOA,,Aroa Airport,"Aroa, Papua New Guinea",UTC+10:00,
+302,AOB,,Annanberg Airport,"Annanberg, Papua New Guinea",UTC+10:00,
+304,AOD,,Abou-Deïa Airport,"Abou-Deïa, Chad",UTC+01:00,
+312,AOM,,Adam Airport[1],"Adam, Oman",UTC+04:00,
+313,AON,,Arona Airport,"Arona, Papua New Guinea",UTC+10:00,
+315,AOP,,Alférez FAP Alfredo Vladimir Sara Bauer Airport,"Andoas, Peru",UTC−05:00,
+317,AOS,,Amook Bay Seaplane Base (FAA: AK81),"Amook Bay, Alaska, United States",UTC−09:00,Mar-Nov
+331,APP,,Asapa Airport,"Asapa, Papua New Guinea",UTC+10:00,
+347,AQM,,Ariquemes Airport,"Ariquemes, Rondônia, Brazil",UTC−04:00,
+349,AQS,,Saqani Airport,"Saqani, Fiji",UTC+12:00,Nov-Jan
+350,AQY,,Girdwood Airport[1],"Girdwood, Alaska, United States",UTC−09:00,Mar-Nov
+356,ARF,,Acaricuara Airport,"Acaricuara, Colombia",UTC−05:00,
+365,ARO,,Arboletes Airport,"Arboletes, Colombia",UTC−05:00,
+366,ARP,,Aragip Airport,"Aragip, Papua New Guinea",UTC+10:00,
+393,ASQ,,Austin Airport (FAA: 9U3),"Austin, Nevada, United States",UTC−08:00,Mar-Nov
+401,ASZ,,Asirim Airport,"Asirim, Papua New Guinea",UTC+10:00,
+406,ATE,,Antlers Municipal Airport (FAA: 80F),"Antlers, Oklahoma, United States",UTC−06:00,Mar-Nov
+408,ATG,,PAF Base Minhas,"Attock, Pakistan",UTC+05:00,
+421,ATT,,Atmautluak Airport (FAA: 4A2),"Atmautluak, Alaska, United States",UTC−09:00,Mar-Nov
+425,ATX,,Atbasar Airport,"Atbasar, Kazakhstan",UTC+06:00,
+431,AUE,,Abu Rudeis Airport,"Abou Redis, Egypt",UTC+02:00,
+437,AUK,,Alakanuk Airport,"Alakanuk, Alaska, United States",UTC−09:00,Mar-Nov
+438,AUL,,Aur Airport,"Aur Atoll, Marshall Islands",UTC+12:00,
+469,AWE,,Alowe Airport,"Alowe, Gabon",UTC+01:00,
+472,AWN,,Alton Downs Airport,"Alton Downs, South Australia, Australia",UTC+09:30,Oct-Apr
+473,AWP,,Austral Downs Airport,"Austral Downs, Northern Territory, Australia",UTC+09:30,
+474,AWR,,Awar Airport,"Awar, Papua New Guinea",UTC+10:00,
+477,AXB,,Maxson Airfield (FAA: 89N),"Alexandria Bay, New York, United States",UTC−05:00,Mar-Nov
+480,AXE,,Xanxere Airport,"Xanxerê, Santa Catarina, Brazil",UTC−03:00,
+481,AXF,,Alxa Left Banner Bayanhot Airport,"Alxa Left Banner, Inner Mongolia, China",UTC+08:00,
+485,AXL,,Alexandria Airport,"Alexandria Station, Northern Territory, Australia",UTC+09:30,
+495,AYA,,Ayapel Airport,"Ayapel, Colombia",UTC−05:00,
+496,AYC,,Ayacucho Airport,"Ayacucho, Colombia",UTC−05:00,
+497,AYD,,Alroy Downs Airport,"Alroy Downs, Northern Territory, Australia",UTC+09:30,
+499,AYI,,Yari Airport,"Yari, Colombia",UTC−05:00,
+501,AYL,,Anthony Lagoon Airport,"Anthony Lagoon, Northern Territory, Australia",UTC+09:30,
+502,AYM,,Yas Island Seaplane Base[1],"Yas Island, Abu Dhabi, United Arab Emirates",UTC+04:00,
+513,AYY,,Arugam Bay Seaplane Base[1],"Pottuvil, Sri Lanka",UTC+05:30,
+515,AZB,,Amazon Bay Airport,"Amazon Bay, Papua New Guinea",UTC+10:00,
+517,AZG,,Pablo L. Sidar Airport,"Apatzingán, Michoacán, Mexico",UTC−06:00,Apr-Oct
+525,AZT,,Zapatoca Airport,"Zapatoca, Colombia",UTC−05:00,
+529,BAC,,Barranca de Upia Airport,"Barranca de Upía, Colombia",UTC−05:00,
+536,BAJ,,Bali Airport,"Bali, Papua New Guinea",UTC+10:00,
+537,BAK[1],,metropolitan area2,"Baku, Azerbaijan",UTC+04:00,
+541,BAP,,Baibara Airport,"Baibara, Papua New Guinea",UTC+10:00,
+543,BAR,,Qionghai Bo'ao Airport,"Qionghai, Hainan, China",UTC+08:00,
+547,BAW,,Biawonque Airport,"Biawonque, Gabon",UTC+01:00,
+577,BCC,,Bear Creek 3 Airport (FAA: Z48),"Bear Creek, Alaska, United States",UTC−09:00,Mar-Nov
+581,BCG,,Bemichi Airport,"Kumaka, Guyana",UTC−04:00,
+590,BCQ,,Brak Airport,"Brak, Libya",UTC+02:00,
+592,BCS,,Southern Seaplane Airport (FAA: 65LA),"Belle Chasse, Louisiana, United States",UTC−06:00,Mar-Nov
+594,BCU,,Bauchi State Airport,"Bauchi, Nigeria",UTC+01:00,
+595,BCV,,Hector Silva Airstrip,"Belmopan, Belize",UTC−06:00,
+596,BCW,,Benguerra Island Airport,"Benguerra Island, Mozambique",UTC+02:00,
+599,BCZ,,Bickerton Island Airport,"Bickerton Island, Northern Territory, Australia",UTC+09:30,
+605,BDF,,Rinkenberger RLA Airport (FAA: 3IS8),"Bradford, Illinois, United States",UTC−06:00,Mar-Nov
+623,BDX,,Broadus Airport[1],"Broadus, Montana, United States",UTC−07:00,Mar-Nov
+624,BDY,,Bandon State Airport (FAA: S05),"Bandon, Oregon, United States",UTC−08:00,Mar-Nov
+626,BEA,,Bereina Airport,"Bereina, Papua New Guinea",UTC+10:00,
+653,BFC,,Bloomfield Airport,"Bloomfield, Queensland, Australia",UTC+10:00,
+657,BFG,,Bullfrog Basin Airport (FAA: U07),"Glen Canyon, Utah, United States",UTC−07:00,Mar-Nov
+667,BFQ,,Bahía Piña Airport,"Puerto Piña, Panama",UTC−05:00,
+685,BGK,,Big Creek Airport,"Big Creek, Belize",UTC−06:00,
+690,BGP,,Bongo Airport,"Bongo, Gabon",UTC+01:00,
+693,BGT,,Bagdad Airport (FAA: E51),"Bagdad, Arizona, United States",UTC−07:00,
+705,BHG,,Brus Laguna Airport,"Brus Laguna, Honduras",UTC−06:00,
+710,BHL,,Bahía de los Ángeles Airport,"Bahía de los Ángeles, Baja California, Mexico",UTC−08:00,Apr-Oct
+718,BHT,,Brighton Downs Airport,"Brighton Downs, Queensland, Australia",UTC+10:00,
+721,BHW,,Bhagatanwala Airport,"Sargodha, Pakistan",UTC+05:00,
+724,BHZ[1],,metropolitan area3,"Belo Horizonte, Minas Gerais, Brazil",UTC−03:00,
+732,BII,,Bikini Atoll Airport,"Bikini Atoll, Marshall Islands",UTC+12:00,
+733,BIJ,,Biliau Airport,"Biliau, Papua New Guinea",UTC+10:00,
+739,BIP,,Bulimba Airport,"Bulimba, Queensland, Australia",UTC+10:00,
+746,BIW,,Billiluna Airport,"Billiluna, Western Australia, Australia",UTC+08:00,
+749,BIZ,,Bimin Airport,"Bimin, Papua New Guinea",UTC+10:00,
+754,BJE,,Baleela Airport[1],"Baleela, Sudan",UTC+03:00,
+756,BJG,,Kotamobagu Mopait Airport[1],"Kotamobagu, Indonesia",UTC+08:00,
+763,BJN,,Bajone Airport,"Bajone, Mozambique",UTC+02:00,
+766,BJQ,,Bahja Airport[1],"Bahja, Oman",UTC+04:00,
+768,BJS[1],,metropolitan area4,"Beijing, China",UTC+08:00,
+769,BJT,,Bentota River Airport[1],"Bentota, Sri Lanka",UTC+05:30,
+780,BKF,,Lake Brooks Seaplane Base,"Brooks Camp, Alaska, United States",UTC−09:00,Mar-Nov
+788,BKN,,Balkanabat Airport[1],"Balkanabat, Turkmenistan",UTC+05:00,
+803,BLD,,Boulder City Municipal Airport (FAA: 61B),"Boulder City, Nevada, United States",UTC−08:00,Mar-Nov
+841,BMQ,,Bamburi Airport,"Bamburi, Kenya",UTC+03:00,
+856,BNF,,Warm Springs Bay Seaplane Base,"Baranof Warm Springs, Alaska, United States",UTC−09:00,Mar-Nov
+865,BNQ,,Baganga Airport,"Baganga, Philippines",UTC+08:00,
+870,BNV,,Boana Airport,"Boana, Papua New Guinea",UTC+10:00,
+874,BNZ,,Banz Airport,"Banz, Papua New Guinea",UTC+10:00,
+890,BOQ,,Boku Airport,"Boku, Papua New Guinea",UTC+11:00,
+894,BOV,,Boang Island Airport,"Boang Island, Papua New Guinea",UTC+10:00,
+899,BPB,,Boridi Airport,"Boridi, Papua New Guinea",UTC+10:00,
+920,BQI,,Bagani Airport[1],"Bagani, Namibia",UTC+01:00,Sep-Apr
+921,BQJ,,Batagay Airport,"Batagay, Yakutia, Russia",UTC+10:00,
+930,BQV,,Bartlett Cove Seaplane Base,"Bartlett Cove, Alaska, United States",UTC−09:00,Mar-Nov
+937,BRH,,Brahman Airport,"Brahman, Papua New Guinea",UTC+10:00,
+939,BRJ,,Bright Airport,"Bright, Victoria, Australia",UTC+10:00,Oct-Apr
+970,BSQ,,Bisbee Municipal Airport (FAA: P04),"Bisbee, Arizona, United States",UTC−07:00,
+975,BSV,,Besakoa Airport[1],"Besakoa, Madagascar",UTC+03:00,
+976,BSW,,Boswell Bay Airport (FAA: AK97),"Boswell Bay, Alaska, United States",UTC−09:00,Mar-Nov
+982,BTD,,Brunette Downs Airport,"Brunette Downs, Northern Territory, Australia",UTC+09:30,
+993,BTO,,Botopasi Airstrip,"Botopasi, Suriname",UTC−03:00,
+1008,BUE[1],,metropolitan area5,"Buenos Aires, Argentina",UTC−03:00,
+1011,BUH[1],,metropolitan area6,"Bucharest, Romania",UTC+02:00,Mar-Oct
+1014,BUK,,Albuq Airport,"Albuq, Yemen",UTC+03:00,
+1043,BVP,,Bolovip Airport,"Bolovip, Papua New Guinea",UTC+10:00,
+1048,BVW,,Batavia Downs Airport,"Batavia Downs, Queensland, Australia",UTC+10:00,
+1061,BWJ,,Bawan Airport,"Bawan, Papua New Guinea",UTC+10:00,
+1084,BXL,,Blue Lagoon Seaplane Base,"Nanuya Lailai, Fiji",UTC+12:00,Nov-Jan
+1085,BXM,,Batom Airport,"Batom, Indonesia",UTC+09:00,
+1090,BXS,,Borrego Valley Airport (FAA: L08),"Borrego Springs, California, United States",UTC−08:00,Mar-Nov
+1095,BXX,,Borama Airport,"Borama, Somalia",UTC+03:00,
+1098,BYA,,Boundary Airport,"Boundary, Alaska, United States",UTC−09:00,Mar-Nov
+1099,BYB,,Dibba Airport,"Dibba Al-Baya, Oman",UTC+04:00,
+1108,BYL,,Bella Yella Airport,"Bella Yella, Liberia",UTC±00:00,
+1118,BYV,,Beira Lake Seaplane Base[1],"Colombo, Sri Lanka",UTC+05:30,
+1119,BYW,,Blakely Island Airport (FAA: 38WA),"Blakely Island, Washington, United States",UTC−08:00,Mar-Nov
+1120,BYX,,Baniyala Airport,"Baniyala, Northern Territory, Australia",UTC+09:30,
+1122,BZB,,Bazaruto Island Airport,"Bazaruto Island, Mozambique",UTC+02:00,
+1126,BZF,,Benton Field[1],"Redding, California, United States",UTC−08:00,Mar-Nov
+1128,BZH,,Bumi Hills Airstrip[1],"Bumi Hills, Zimbabwe",UTC+02:00,
+1132,BZM,,Bemolanga Airport[1],"Bemolanga, Madagascar",UTC+03:00,
+1135,BZP,,Bizant Airport,"Bizant, Queensland, Australia",UTC+10:00,
+1137,BZT,,Eagle Air Park[1],"Brazoria, Texas, United States",UTC−06:00,Mar-Nov
+1140,BZX,,Bazhong Enyang Airport,"Bazhong, Sichuan, China",UTC+08:00,
+1170,CBC,,Cherrabun Airport,"Cherrabun, Western Australia, Australia",UTC+08:00,
+1176,CBI,,Cape Barren Island Airport,"Cape Barren Island, Tasmania, Australia",UTC+10:00,Oct–Apr
+1192,CBY,,Canobie Airport,"Canobie Station, Queensland, Australia",UTC+10:00,
+1197,CCG,,Crane County Airport (FAA: E13),"Crane, Texas, United States",UTC−06:00,Mar–Nov
+1209,CCT,,Colonia Catriel Airport,"Catriel, Río Negro, Argentina",UTC−03:00,
+1219,CDD,,Cauquira Airport,"Cauquira, Honduras",UTC−06:00,
+1226,CDL,,Candle 2 Airport (FAA: AK75),"Candle, Alaska, United States",UTC−09:00,Mar–Nov
+1260,CEX,,Chena Hot Springs Airport (FAA: AK13),"Chena Hot Springs, Alaska, United States",UTC−09:00,Mar–Nov
+1269,CFH,,Clifton Hills Airport,"Clifton Hills, South Australia, Australia",UTC+09:30,Oct–Apr
+1272,CFM,,Conklin (Leismer) Airport,"Wood Buffalo, Alberta, Canada",UTC−07:00,
+1274,CFO,,Confresa Airport,"Confresa, Mato Grosso, Brazil",UTC−04:00,
+1275,CFP,,Carpentaria Downs Airport,"Carpentaria Downs, Queensland, Australia",UTC+10:00,
+1276,CFQ,,Creston Aerodrome[1] (TC: CAJ3),"Creston, British Columbia, Canada",UTC−07:00,
+1282,CGA,,Craig Seaplane Base,"Craig, Alaska, United States",UTC−09:00,Mar–Nov
+1288,CGG,,Casiguran Airport,"Casiguran, Philippines",UTC+08:00,
+1291,CGJ,,Kasompe Airport,"Chingola, Zambia",UTC+02:00,
+1300,CGT,,Chinguetti Airport,"Chinguetti, Mauritania",UTC±00:00,
+1310,CHI[1],,metropolitan area2,"Chicago, Illinois, United States",UTC−06:00,Mar–Nov
+1317,CHP,,Circle Hot Springs Airport,"Circle Hot Springs, Alaska, United States",UTC−09:00,Mar–Nov
+1326,CHZ,,Chiloquin State Airport (FAA: 2S7),"Chiloquin, Oregon, United States",UTC−08:00,Mar–Nov
+1337,CIL,,Council Airport (FAA: K29),"Council, Alaska, United States",UTC−09:00,Mar–Nov
+1342,CIQ,,Chiquimula Airport,"Chiquimula, Guatemala",UTC−06:00,
+1354,CJD,,Candilejas Airport,"Candilejas, Colombia",UTC−05:00,
+1356,CJH,,Chilko Lake (Tsylos Park Lodge) Aerodrome (TC: CAG3),"Chilko Lake, British Columbia, Canada",UTC−08:00,Mar–Nov
+1368,CKE,,Lampson Field[1] (FAA: 1O2),"Lakeport, California, United States",UTC−08:00,Mar–Nov
+1377,CKR,,Crane Island Airstrip[1],"Crane Island, Washington, United States",UTC−08:00,Mar–Nov
+1380,CKU,,Cordova Municipal Airport,"Cordova, Alaska, United States",UTC−09:00,Mar–Nov
+1383,CKX,,Chicken Airport,"Chicken, Alaska, United States",UTC−09:00,Mar–Nov
+1389,CLG,,New Coalinga Municipal Airport (FAA: C80),"Coalinga, California, United States",UTC−08:00,Mar–Nov
+1428,CMT,,Cameta Airport,"Cametá, Pará, Brazil",UTC−03:00,
+1434,CMZ,,Caia Airport[1],"Caia, Mozambique",UTC+02:00,
+1439,CNE,,Fremont County Airport (FAA: 1V6),"Cañon City, Colorado, United States",UTC−07:00,Mar–Nov
+1454,CNT,,Charata Airport,"Charata, Chaco, Argentina",UTC−03:00,
+1460,CNZ,,Cangamba Airport,"Cangamba, Angola",UTC+01:00,
+1461,COA,,Columbia Airport (FAA: O22),"Columbia, California, United States",UTC−08:00,Mar–Nov
+1462,COB,,Coolibah Airport,"Coolibah Station, Northern Territory, Australia",UTC+09:30,
+1472,COL,,Coll Airport,"Coll, Scotland, United Kingdom",UTC±00:00,Mar–Oct
+1476,COP,,Cooperstown-Westville Airport (FAA: K23),"Cooperstown, New York, United States",UTC−05:00,Mar–Nov
+1491,CPG,,Carmen de Patagones Airport,"Carmen de Patagones, Buenos Aires, Argentina",UTC−03:00,
+1493,CPI,,Cape Orford Airport[1],"Cape Orford, Papua New Guinea",UTC+10:00,
+1496,CPN,,Cape Rodney Airport,"Cape Rodney, Papua New Guinea",UTC+10:00,
+1502,CPU,,Cururupu Airport,"Cururupu, Maranhão, Brazil",UTC−03:00,
+1505,CQA,,Canarana Airport,"Canarana, Mato Grosso, Brazil",UTC−04:00,
+1509,CQP,,Cape Flattery Airport,"Cape Flattery, Queensland, Australia",UTC+10:00,
+1511,CQT,,Caquetania Airport,"Caquetania, Colombia",UTC−05:00,
+1512,CQW,,Wulong Xiannüshan Airport,"Wulong, Chongqing, China",UTC+08:00,
+1520,CRH,,Cherrabah Airport,"Cherrabah, Queensland, Australia",UTC+10:00,
+1522,CRJ,,Coorabie Airport,"Coorabie, South Australia, Australia",UTC+09:30,Oct–Apr
+1536,CRY,,Carlton Hill Airport,"Carlton Hill Station, Western Australia, Australia",UTC+08:00,
+1538,CSA,,Colonsay Airport,"Colonsay, Scotland, United Kingdom",UTC±00:00,Mar–Oct
+1541,CSD,,Cresswell Downs Airport,"Cresswell Downs, Northern Territory, Australia",UTC+09:30,
+1542,CSE,,Buckhorn Ranch Airport (FAA: 0CO2),"Crested Butte, Colorado, United States",UTC−07:00,Mar–Nov
+1552,CSR,,Casuarito Airport,"Casuarito, Colombia",UTC−05:00,
+1555,CSU,,Santa Cruz do Sul Airport[1],"Santa Cruz do Sul, Rio Grande do Sul, Brazil",UTC−03:00,
+1564,CTE,,Cartí Airport,"Cartí, Panama",UTC−05:00,
+1569,CTK,,Canton Municipal Airport (FAA: 7G9),"Canton, South Dakota, United States",UTC−06:00,Mar–Nov
+1573,CTO,,Calverton Executive Airpark (FAA: 3C8),"Calverton, New York, United States",UTC−05:00,Mar–Nov
+1576,CTR,,Cattle Creek Airport,"Cattle Creek, Northern Territory, Australia",UTC+09:30,
+1580,CTW,,Cottonwood Airport (FAA: P52),"Cottonwood, Arizona, United States",UTC−07:00,
+1581,CTX,,"Cortland County Airport (Chase Field, FAA: N03)","Cortland, New York, United States",UTC−05:00,Mar–Nov
+1592,CUI,,Curillo Airport,"Curillo, Colombia",UTC−05:00,
+1593,CUJ,,Culion Airport,"Culion, Philippines",UTC+08:00,
+1594,CUK,,Caye Caulker Airport,"Caye Caulker, Belize",UTC−06:00,
+1602,CUS,,Columbus Municipal Airport (FAA: 0NM0),"Columbus, New Mexico, United States",UTC−07:00,Mar–Nov
+1606,CUX,,Cuddihy Field (FAA: 07TE),"Corpus Christi, Texas, United States",UTC−06:00,Mar–Nov
+1614,CVH,,Caviahue Airport,"Caviahue, Neuquén, Argentina",UTC−03:00,
+1615,CVI,,Caleta Olivia Airport,"Caleta Olivia, Santa Cruz, Argentina",UTC−03:00,
+1617,CVL,,Cape Vogel Airport,"Cape Vogel, Papua New Guinea",UTC+10:00,
+1633,CWS,,Center Island Airport (FAA: 78WA),"Center Island, Washington, United States",UTC−08:00,Mar–Nov
+1636,CWX,,Cochise County Airport[1] (FAA: P33),"Willcox, Arizona, United States",UTC−07:00,
+1639,CXC,,Chitina Airport,"Chitina, Alaska, United States",UTC−09:00,Mar–Nov
+1654,CYC,,Caye Chapel Airport,"Caye Chapel, Belize",UTC−06:00,
+1660,CYM,,Chatham Seaplane Base,"Chatham, Alaska, United States",UTC−09:00,Mar–Nov
+1671,CZB,,Carlos Ruhl Airport,"Cruz Alta, Rio Grande do Sul, Brazil",UTC−03:00,
+1672,CZC,,Copper Center 2 Airport (FAA: Z93),"Copper Center, Alaska, United States",UTC−09:00,Mar–Nov
+1675,CZH,,Corozal Airport,"Corozal, Belize",UTC−06:00,
+1676,CZJ,,Corazón de Jesús Airport,"Corazón de Jesús, Panama",UTC−05:00,
+1680,CZN,,Chisana Airport,"Chisana, Alaska, United States",UTC−09:00,Mar–Nov
+1681,CZO,,Chistochina Airport,"Chistochina, Alaska, United States",UTC−09:00,Mar–Nov
+1682,CZP,,Cape Pole Seaplane Base (FAA: Z71),"Cape Pole, Alaska, United States",UTC−09:00,Mar–Nov
+1693,DAF,,Daup Airport,"Daup, Papua New Guinea",UTC+10:00,
+1695,DAH,,Dathina Airport,"Dathina, Yemen",UTC+03:00,
+1700,DAO,,Dabo Airport[1],"Dabo, Papua New Guinea",UTC+10:00,
+1703,DAS,,Great Bear Lake Airport[1] (TC: CFF4),"Great Bear Lake, Northwest Territories, Canada",UTC−08:00,Mar-Nov
+1714,DBK,,Dutch Bay Seaplane Base[1],"Kalpitiya, Sri Lanka",UTC+05:30,
+1721,DBS,,Dubois Municipal Airport (FAA: U41),"Dubois, Idaho, United States",UTC−07:00,Mar-Nov
+1723,DBU,,Dambulu Oya Tank Seaplane Base[1],"Dambulla, Sri Lanka",UTC+05:30,
+1728,DCG,,Dubai Creek Seaplane Base[1],"Dubai, United Arab Emirates",UTC+04:00,
+1730,DCK,,Dahl Creek Airport,"Dahl Creek, Alaska, United States",UTC−09:00,Mar-Nov
+1739,DDM,,Dodoima Airport,"Dodoima, Papua New Guinea",UTC+10:00,
+1754,DEQ,,Deqing Moganshan Airport,"Deqing, Zhejiang, China",UTC+08:00,
+1758,DEX,,Nop Goliat Dekai Airport[1],"Yahukimo, Indonesia",UTC+09:00,
+1761,DFP,,Drumduff Airport,"Drumduff, Queensland, Australia",UTC+10:00,
+1764,DGC,,Degeh Bur Airport,"Degeh Bur, Ethiopia",UTC+03:00,
+1767,DGF,,Douglas Lake Airport[1],"Douglas Lake, British Columbia, Canada",UTC−08:00,Mar-Nov
+1769,DGK,,Dugong Beach Lodge Airstrip[1],"Dugong Beach Lodge, Mozambique",UTC+02:00,
+1771,DGM,,Dandugama Seaplane Base[1],"Colombo, Sri Lanka",UTC+05:30,
+1780,DHB,,Deer Harbor Sea Plane Base[1],"Deer Harbor, Washington, United States",UTC−08:00,Mar-Nov
+1803,DIU,,Diu Airport,"Diu, Daman and Diu, India",UTC+05:30,
+1805,DIW,,Mawella Lagoon Seaplane Base[1],"Dickwella, Sri Lanka",UTC+05:30,
+1811,DJH,,Jebel Ali Seaplane Base,"Dubai, United Arab Emirates",UTC+04:00,
+1814,DJN,,Delta Junction Airport (FAA: D66),"Delta Junction, Alaska, United States",UTC−09:00,Mar-Nov
+1817,DKA,,Katsina Airport[1],"Katsina, Nigeria",UTC+01:00,
+1824,DLB,,Dalbertis Airport,"Dalbertis, Papua New Guinea",UTC+10:00,
+1848,DMR,,Dhamar Airport,"Dhamar, Yemen",UTC+03:00,
+1854,DNF,,Martuba Air Base,"Derna, Libya",UTC+02:00,
+1855,DNG,,Doongan Airport[1],"Doongan, Western Australia, Australia",UTC+08:00,
+1860,DNM,,Denham Airport,"Denham, Western Australia, Australia",UTC+08:00,
+1871,DOA,,Doany Airport,"Doany, Madagascar",UTC+03:00,
+1873,DOC,,Dornoch Airport,"Dornoch, Scotland, United Kingdom",UTC±00:00,Mar-Oct
+1875,DOE,,Djoemoe Airstrip,"Djoemoe, Suriname",UTC−03:00,
+1882,DON,,Dos Lagunas Airport,"Dos Lagunas, Guatemala",UTC−06:00,
+1886,DOS,,Dios Airport,"Dios, Papua New Guinea",UTC+11:00,
+1898,DPT,,Deputatsky Airport,"Deputatsky, Yakutia, Russia",UTC+10:00,
+1899,DPU,,Dumpu Airport,"Dumpu, Papua New Guinea",UTC+10:00,
+1901,DQM,,Duqm International Airport[1],"Duqm, Oman",UTC+04:00,
+1904,DRC,,Dirico Airport,"Dirico, Angola",UTC+01:00,
+1907,DRF,,Drift River Airport[1],"Drift River, Alaska, United States",UTC−09:00,Mar-Nov
+1909,DRH,,Dabra Airport,"Dabra, Indonesia",UTC+09:00,
+1918,DRU,,Drummond Airport (FAA: M26),"Drummond, Montana, United States",UTC−07:00,Mar-Nov
+1926,DSG,,Dilasag Airport,"Dilasag, Philippines",UTC+08:00,
+1939,DTH,,Furnace Creek Airport (FAA: L06),"Death Valley, California, United States",UTC−08:00,Mar-Nov
+1944,DTR,,Decatur Shores Airport[1],"Decatur Island, Washington, United States",UTC−08:00,Mar-Nov
+1945,DTT[1],,metropolitan area1,"Detroit, Michigan, United States",UTC−05:00,Mar-Nov
+1946,DTU,,Wudalianchi Airport[1],"Wudalianchi, Heilongjiang, China",UTC+08:00,
+1953,DUF,,Pine Island Airport (FAA: 7NC2),"Corolla, North Carolina, United States",UTC−05:00,Mar-Nov
+1958,DUQ,,Duncan Airport,"Duncan, British Columbia, Canada",UTC−08:00,Mar-Nov
+1962,DVD,,Andavadoaka Airport,"Andavadoaka, Madagascar",UTC+03:00,
+1963,DVK,,Diavik Airport[1],"Diavik Diamond Mine, Northwest Territories, Canada",UTC−07:00,Mar-Nov
+1968,DVR,,Daly River Airport,"Daly River, Northern Territory, Australia",UTC+09:30,
+1975,DWO,,Diyawanna Oya Seaplane Base[1],"Sri Jayawardenepura Kotte, Sri Lanka",UTC+05:30,
+1984,DYM,,Diamantina Lakes Airport,"Diamantina Lakes, Queensland, Australia",UTC+10:00,
+1988,DYW,,Daly Waters Airport,"Daly Waters, Northern Territory, Australia",UTC+09:30,
+1991,DZI,,Codazzi Airport,"Codazzi, Colombia",UTC−05:00,
+1998,EAL,,Elenak Airport,"Mejato Island, Kwajalein Atoll, Marshall Islands",UTC+12:00,
+2001,EAP[1],,metropolitan area2,"Basel, Switzerland / Mulhouse, Alsace, France",UTC+01:00,Mar-Oct
+2014,EBN,,Ebadon Airstrip,"Ebadon Island, Kwajalein Atoll, Marshall Islands",UTC+12:00,
+2015,EBO,,Ebon Airport,"Ebon Atoll, Marshall Islands",UTC+12:00,
+2019,ECA,,Iosco County Airport (FAA: 6D9),"East Tawas, Michigan, United States",UTC−05:00,Mar-Nov
+2024,ECO,,El Encanto Airport,"El Encanto, Colombia",UTC−05:00,
+2028,EDA,,Edna Bay Seaplane Base[1],"Edna Bay, Alaska, United States",UTC−09:00,Mar-Nov
+2030,EDD,,Erldunda Airport,"Erldunda, Northern Territory, Australia",UTC+09:30,
+2038,EDQ,,Erandique Airport,"Erandique, Honduras",UTC−06:00,
+2057,EGP,,Maverick County Memorial International Airport,"Eagle Pass, Texas, United States",UTC−06:00,Mar-Nov
+2063,EIA,,Popondetta Airport,"Eia, Papua New Guinea",UTC+10:00,
+2066,EIH,,Einasleigh Airport,"Einasleigh, Queensland, Australia",UTC+10:00,
+2074,EJN,,Ejin Banner Taolai Airport,"Ejin Banner, Inner Mongolia, China",UTC+08:00,
+2075,EJT,,Enejit Airport,"Enejit, Mili Atoll, Marshall Islands",UTC+12:00,
+2078,EKD,,Elkedra Airport,"Elkedra, Northern Territory, Australia",UTC+09:30,
+2079,EKE,,Ekereku Airport,"Ekereku, Guyana",UTC−04:00,
+2090,ELE,,El Real Airport,"El Real, Panama",UTC−05:00,
+2103,ELR,,Elelim Airport,"Elelim, Indonesia",UTC+09:00,
+2108,ELW,,Ellamar Seaplane Base (FAA: 1Z9),"Ellamar, Alaska, United States",UTC−09:00,Mar-Nov
+2109,ELX,,El Tigre Airport,"El Tigre, Venezuela",UTC−04:00,
+2135,ENJ,,El Naranjo Airport,"El Naranjo, Guatemala",UTC−06:00,
+2153,EPG,,Browns Airport (FAA: NE69),"Weeping Water, Nebraska, United States",UTC−06:00,Mar-Nov
+2156,EPN,,Epéna Airport,"Epéna, Republic of the Congo",UTC+01:00,
+2177,ERT,,Erdenet Airport,"Erdenet, Mongolia",UTC+08:00,
+2181,ESA,,Esa'ala Airport,"Esa'ala, Papua New Guinea",UTC+10:00,
+2189,ESI,,Espinosa Airport,"Espinosa, Minas Gerais, Brazil",UTC−03:00,Oct-Feb
+2194,ESO,,Ohkay Owingeh Airport (FAA: E14),"Española, New Mexico, United States",UTC−07:00,Mar-Nov
+2195,ESP,,Stroudsburg–Pocono Airport[1] (FAA: N53),"East Stroudsburg, Pennsylvania, United States",UTC−05:00,Mar-Nov
+2212,EUE,,Eureka Airport (FAA: 05U),"Eureka, Nevada, United States",UTC−08:00,Mar-Nov
+2217,EUO,,Paratebueno Airport[1],"Paratebueno, Colombia",UTC−05:00,
+2220,EVA,,Ben Bruce Memorial Airpark (FAA: 4TE8),"Evadale, Texas, United States",UTC−06:00,Mar-Nov
+2221,EVD,,Eva Downs Airport,"Eva Downs, Northern Territory, Australia",UTC+09:30,
+2231,EWE,,Ewer Airport,"Ewer, Indonesia",UTC+09:00,
+2237,EXI,,Excursion Inlet Seaplane Base,"Excursion Inlet, Alaska, United States",UTC−09:00,Mar-Nov
+2243,EYR,,Yerington Municipal Airport[1] (FAA: O43),"Yerington, Nevada, United States",UTC−08:00,Mar-Nov
+2248,EZV,,Beryozovo Airport[1],"Beryozovo, Khanty-Mansi Autonomous Okrug, Russia",UTC+05:00,
+2258,FAK,,False Island Seaplane Base (FAA: 2Z6),"False Island, Alaska, United States",UTC−09:00,Mar-Nov
+2277,FBS,,Friday Harbor Seaplane Base (FAA: W33),"Friday Harbor, Washington, United States",UTC−08:00,Mar-Nov
+2294,FEA,,Fetlar Airport,"Fetlar, Scotland, United Kingdom",UTC±00:00,Mar-Oct
+2317,FID,,Elizabeth Field (FAA: 0B8),"Fishers Island, New York, United States",UTC−05:00,Mar-Nov
+2338,FLH,,Flotta Airport,"Flotta, Scotland, United Kingdom",UTC±00:00,Mar-Oct
+2339,FLI,,Holt Airport,"Flateyri, Iceland",UTC±00:00,
+2347,FLT,,Flat Airport,"Flat, Alaska, United States",UTC−09:00,Mar-Nov
+2361,FMU,,Florence Municipal Airport[1] (FAA: 6S2),"Florence, Oregon, United States",UTC−08:00,Mar-Nov
+2366,FND,,Funadhoo Airport,"Funadhoo, Shaviyani Atoll, Maldives",UTC+05:00,
+2376,FOA,,Foula Airfield,"Foula, Scotland, United Kingdom",UTC±00:00,Mar-Oct
+2377,FOB,,Fort Bragg Airport (FAA: 82CL),"Fort Bragg, California, United States",UTC−08:00,Mar-Nov
+2385,FOO,,Kornasoren Airport (Numfoor Airport),"Numfoor, Indonesia",UTC+09:00,
+2390,FOY,,Foya Airport,"Foya, Liberia",UTC±00:00,
+2393,FPY,,Perry-Foley Airport (FAA: 40J),"Perry, Florida, United States",UTC−05:00,Mar-Nov
+2419,FSL,,Fossil Downs Airport,"Fossil Downs Station, Western Australia, Australia",UTC+08:00,
+2434,FUB,,Fulleborn Airport,"Fulleborn, Papua New Guinea",UTC+10:00,
+2440,FUM,,Fuma Airport[1],"Fuma, Papua New Guinea",UTC+10:00,
+2461,GAA,,Guamal Airport,"Guamal, Colombia",UTC−05:00,
+2481,GAV,,Gag Island Airport,"Gag Island, Indonesia",UTC+09:00,
+2483,GAX,,Gamba Airport,"Gamba, Gabon",UTC+01:00,
+2485,GAZ,,Guasopa Airport,"Guasopa, Papua New Guinea",UTC+10:00,
+2494,GBI,,Kalaburagi Airport,"Gulbarga, Karnataka, India",UTC+05:30,
+2498,GBM,,Garbaharey Airport,"Garbaharey, Somalia",UTC+03:00,
+2506,GCA,,Guacamayas Airport,"Guacamayas, Colombia",UTC−05:00,
+2508,GCD,,Grand Coulee Dam Airport[2] (FAA: 3W7),"Electric City, Washington, United States",UTC−08:00,Mar-Nov
+2515,GCT,,Grand Canyon Bar 10 Airport,"Whitmore, Arizona, United States",UTC−07:00,
+2516,GCW,,Grand Canyon West Airport[2] (FAA: 1G4),"Peach Springs, Arizona, United States",UTC−07:00,
+2518,GDA,,Gounda Airport,"Gounda, Central African Republic",UTC+01:00,
+2523,GDH,,Golden Horn Lodge Seaplane Base (FAA: 3Z8),"Golden Horn Lodge, Alaska, United States",UTC−09:00,Mar-Nov
+2524,GDI,,Gordil Airport,"Gordil, Central African Republic",UTC+01:00,
+2539,GEC,,Geçitkale Air Base,"Geçitkale, Northern Cyprus",UTC+03:00,
+2555,GFE,,Grenfell Airport[2],"Grenfell, New South Wales, Australia",UTC+10:00,Oct-Apr
+2564,GGC,,Lumbala N'guimbo Airport,"Lumbala N'guimbo, Angola",UTC+01:00,
+2571,GGL,,Gilgal Airport[2],"Gilgal, Colombia",UTC−05:00,
+2575,GGR,,Garowe International Airport,"Garowe, Somalia",UTC+03:00,
+2582,GHE,,Garachiné Airport,"Garachiné, Panama",UTC−05:00,
+2584,GHK,,Gahcho Kue Aerodrome[2] (TC: CGK2),"Kennedy Lake, Northwest Territories, Canada",UTC−07:00,Mar-Nov
+2597,GIM,,Miele Mimbale Airport,"Miele Mimbale, Gabon",UTC+01:00,
+2600,GIT,,Geita Airport,"Geita, Tanzania",UTC+03:00,
+2616,GKO,,Kongo Boumba Airport,"Kongo Boumba, Gabon",UTC+01:00,
+2619,GLB,,San Carlos Apache Airport[2] (FAA: P13),"Globe, Arizona, United States",UTC−07:00,
+2620,GLC,,Geladi Airport,"Geladi, Ethiopia",UTC+03:00,
+2630,GLN,,Guelmim Airport,"Guelmim, Morocco",UTC±00:00,Mar-Oct1
+2640,GLY,,Goldsworthy Airport,"Goldsworthy, Western Australia, Australia",UTC+08:00,
+2644,GMC,,Guerima Airport,"Guerima, Colombia",UTC−05:00,
+2657,GMV,,Monument Valley Airport (FAA: UT25),"Monument Valley, Utah, United States",UTC−07:00,Mar-Nov
+2662,GNF,,Gansner Field[2] (FAA: 2O1),"Quincy, California, United States",UTC−08:00,Mar-Nov
+2671,GNU,,Goodnews Airport,"Goodnews Bay, Alaska, United States",UTC−09:00,Mar-Nov
+2678,GOE,,Gonaili Airstrip,"Gonaili, Papua New Guinea",UTC+10:00,
+2684,GOL,,Gold Beach Municipal Airport (FAA: 4S1),"Gold Beach, Oregon, United States",UTC−08:00,Mar-Nov
+2691,GOS,,Gosford Airport,"Gosford, New South Wales, Australia",UTC+10:00,Oct-Apr
+2707,GRA,,Gamarra Airport,"Gamarra, Colombia",UTC−05:00,
+2709,GRC,,Grand Cess Airport,"Grand Cess, Liberia",UTC±00:00,
+2714,GRH,,Garuahi Airport,"Garuahi, Papua New Guinea",UTC+10:00,
+2726,GRT,,Gujrat Airport,"Gujrat, Pakistan",UTC+05:00,
+2740,GSL,,Taltheilei Narrows Airport[2] (TC: CFA7),"Taltheilei Narrows, Northwest Territories, Canada",UTC−07:00,Mar-Nov
+2747,GSS,,Sabi Sabi Airport,"Sabie, South Africa",UTC+02:00,
+2750,GSV,,Saratov Gagarin Airport,"Saratov, Saratov Oblast, Russia",UTC+04:00,
+2758,GTP,,Grants Pass Airport[2] (FAA: 3S8),"Grants Pass, Oregon, United States",UTC−08:00,Mar-Nov
+2763,GTY,,Gettysburg Regional Airport (FAA: W05),"Gettysburg, Pennsylvania, United States",UTC−05:00,Mar-Nov
+2764,GTZ,,Kirawira B Airstrip[2],"Grumeti, Tanzania",UTC+03:00,
+2769,GUE,,Guriaso Airport,"Guriaso, Papua New Guinea",UTC+10:00,
+2801,GWN,,Gnarowein Airport,"Gnarowein, Papua New Guinea",UTC+10:00,
+2805,GWV,,Glendale Fokker Field (FAA: WV66),"Glen Dale, West Virginia, United States",UTC−05:00,Mar-Nov
+2853,HAY,,Hacaritama Airport,"Aguachica, Colombia",UTC−05:00,
+2854,HAZ,,Hatzfeldthaven Airport,"Hatzfeldthaven, Papua New Guinea",UTC+10:00,
+2856,HBB,,Hobbs Industrial Airpark,"Hobbs, New Mexico, United States",UTC−07:00,Mar-Nov
+2857,HBD,,Habi Airport,"Habi, Papua New Guinea",UTC+10:00,
+2860,HBH,,Entrance Island Seaplane Base (Hobart Bay) (FAA: 2Z1),"Entrance Island, Alaska, United States",UTC−09:00,Mar-Nov
+2861,HBK,,Holbrook Municipal Airport[1] (FAA: P14),"Holbrook, Arizona, United States",UTC−07:00,
+2862,HBQ,,Qilian Airport,"Qilian, Qinghai, China",,
+2864,HBT,,Hambantota Sea Plane Base,"Hambantota, Sri Lanka",UTC+05:30,
+2868,HCC,,Columbia County Airport (FAA: 1B1),"Hudson, New York, United States",UTC−05:00,Mar-Nov
+2889,HED,,Herendeen Bay Airport (FAA: AK33),"Herendeen Bay, Alaska, United States",UTC−09:00,Mar-Nov
+2896,HEO,,Haelogo Airport,"Haelogo, Papua New Guinea",UTC+10:00,
+2919,HGZ,,Hog River Airport (FAA: 2AK6),"Hogatza, Alaska, United States",UTC−09:00,Mar-Nov
+2947,HKB,,Healy Lake Airport,"Healy Lake, Alaska, United States",UTC−09:00,Mar-Nov
+2972,HLV,,Helenvale Airport,"Helenvale, Queensland, Australia",UTC+10:00,
+2992,HNI,,Heiweni Airport,"Heiweni, Papua New Guinea",UTC+10:00,
+2995,HNN,,Honinabi Airport,"Honinabi, Papua New Guinea",UTC+10:00,
+3000,HOC,,Komako Airport,"Komako, Papua New Guinea",UTC+10:00,
+3010,HOO,,Nhon Co Airport,"Quang Duc, Vietnam",UTC+07:00,
+3019,HOY,,Hoy Island Airport,"Longhope, Scotland, United Kingdom",UTC±00:00,Mar-Oct
+3022,HPE,,Hopevale Airport,"Hopevale, Queensland, Australia",UTC+10:00,
+3027,HPV,,Princeville Airport (FAA: HI01),"Hanalei, Hawaii, United States",UTC−10:00,
+3031,HRC,,Zhayrem Airport,"Zhayrem, Kazakhstan",UTC+06:00,
+3039,HRR,,La Herrera Airport,"La Herrera, Colombia",UTC−05:00,
+3046,HSC,,Shaoguan Guitou Airport,"Shaoguan, Guangdong, China",UTC+08:00,
+3050,HSJ,,Zhengzhou Shangjie Airport[1],"Zhengzhou, Henan, China",UTC+08:00,
+3070,HTT,,Huatugou Airport,"Huatugou, Qinghai, China",UTC+08:00,
+3078,HUC,,Humacao Airport,"Humacao, Puerto Rico, United States",UTC−04:00,
+3079,HUD,,Humboldt Municipal Airport (FAA: 0K7),"Humboldt, Iowa, United States",UTC−06:00,Mar-Nov
+3086,HUK,,Hukuntsi Airport,"Hukuntsi, Botswana",UTC+02:00,
+3109,HWA,,Hawabango Airport,"Hawabango, Papua New Guinea",UTC+10:00,
+3111,HWI,,Hawk Inlet Seaplane Base,"Hawk Inlet, Alaska, United States",UTC−09:00,Mar-Nov
+3120,HYF,,Hayfields Airport,"Hayfields, Papua New Guinea",UTC+10:00,
+3122,HYL,,Hollis Clark Bay Seaplane Base,"Hollis, Alaska, United States",UTC−09:00,Mar-Nov
+3133,HZU,,Chengdu Huaizhou Airport,"Chengdu, Sichuan, China",UTC+08:00,
+3146,IAU,,Iaura Airport,"Iaura, Papua New Guinea",UTC+10:00,
+3150,IBI,,Iboki Airport,"Iboki, Papua New Guinea",UTC+10:00,
+3151,IBL,,Indigo Bay Lodge Airport,"Bazaruto Island, Mozambique",UTC+02:00,
+3152,IBO,,Ibo Island Airport[1],"Ibo Island, Mozambique",UTC+02:00,
+3163,ICS,,Cascade Airport[1] (FAA: KU70),"Cascade, Idaho, United States",UTC−07:00,Mar-Nov
+3165,ICY,,Icy Bay Airport (FAA: 19AK),"Icy Bay, Alaska, United States",UTC−09:00,Mar-Nov
+3168,IDC,,Chilonzuine Island Airstrip[1],"Chilonzuine Island, Mozambique",UTC+02:00,
+3174,IDN,,Indagen Airport,"Indagen, Papua New Guinea",UTC+10:00,
+3210,IHU,,Ihu Airport,"Ihu, Papua New Guinea",UTC+10:00,
+3244,ILX,,Ileg Airport,"Ileg, Papua New Guinea",UTC+10:00,
+3247,IMA,,Iamalele Airport,"Iamalele, Papua New Guinea",UTC+10:00,
+3249,IMD,,Imonda Airport,"Imonda, Papua New Guinea",UTC+10:00,
+3251,IMG,,Inhaminga Airport,"Inhaminga, Mozambique",UTC+02:00,
+3252,IMI,,Ine Airport (FAA: N20),"Ine, Arno Atoll, Marshall Islands",UTC+12:00,
+3262,INB,,Independence Airport,"Independence, Belize",UTC−06:00,
+3265,INE,,Chinde Airport,"Chinde, Mozambique",UTC+02:00,
+3282,INY,,Inyati Airport,"Inyati, South Africa",UTC+02:00,
+3285,IOK,,Iokea Airport,"Iokea, Papua New Guinea",UTC+10:00,
+3288,IOP,,Ioma Airport,"Ioma, Papua New Guinea",UTC+10:00,
+3310,IRB,,Iraan Municipal Airport (FAA: 2F0),"Iraan, Texas, United States",UTC−06:00,Mar-Nov
+3323,IRU,,Iranamadu Waterdrome,"Kilinochchi, Sri Lanka",UTC+05:30,
+3328,ISD,,Iscuande Airport,"Iscuande, Colombia",UTC−05:00,
+3348,ITI,,Itambacuri Airport,"Itambacuri, Minas Gerais, Brazil",UTC−03:00,Oct-Feb
+3349,ITK,,Itokama Airport,"Itokama, Papua New Guinea",UTC+10:00,
+3358,IUL,,Ilu Airport,"Ilu, Indonesia",UTC+09:00,
+3359,IUS,,Inus Airport,"Inus, Papua New Guinea",UTC+11:00,
+3363,IVI,,Viveros Island Airport[1],"Viveros Island, Panama",UTC−05:00,
+3365,IVO,,Chibolo Airport,"Chibolo, Colombia",UTC−05:00,
+3400,IZM[1],,metropolitan area2,"İzmir, Turkey",UTC+03:00,
+3413,JAM,,Bezmer Air Base,"Yambol, Bulgaria",UTC+02:00,Mar-Oct
+3416,JAQ,,Jacquinot Bay Airport,"Jacquinot Bay, Papua New Guinea",UTC+10:00,
+3419,JAT,,Jabot Airport,"Jabat Island, Marshall Islands",UTC+12:00,
+3427,JBT,,Bethel Seaplane Base (FAA: Z59),"Bethel, Alaska, United States",UTC−09:00,Mar-Nov
+3434,JCY,,LBJ Ranch Airport (FAA: 0TE7),"Johnson City, Texas, United States",UTC−06:00,Mar-Nov
+3447,JEJ,,Jeh Airport,"Jeh Island, Ailinglaplap Atoll, Marshall Islands",UTC+12:00,
+3448,JEK,,Jeki Airstrip[1],"Jeki, Zambia",UTC+02:00,
+3455,JGB,,Jagdalpur Airport,"Jagdalpur, Chhattisgarh, India",UTC+05:30,
+3461,JHL,,Fort MacKay/Albian Aerodrome[1] (TC: CAL4),"Fort McKay, Alberta, Canada",UTC−07:00,Mar-Nov
+3473,JIO,,Jos Orno Imsula Airport,"Tiakur, Southwest Maluku, Indonesia",UTC+07:00,
+3489,JKT[1],,metropolitan area2,"Jakarta, Indonesia",UTC+07:00,
+3491,JLA,,Quartz Creek Airport,"Cooper Landing, Alaska, United States",UTC−09:00,Mar-Nov
+3495,JMB,,Jamba Airport,"Jamba, Angola",UTC+01:00,
+3513,JOJ,,Doris Lake Aerodrome[1] (TC: CDL7),"Doris Lake, Nunavut, Canada",UTC−07:00,Mar-Nov
+3517,JOP,,Josephstaal Airport,"Josephstaal, Papua New Guinea",UTC+10:00,
+3546,JUH,,Chizhou Jiuhuashan Airport,"Chizhou / Tongling, Anhui, China",UTC+08:00,
+3558,JVI,,Central Jersey Regional Airport (FAA: 47N),"Manville, New Jersey, United States",UTC−05:00,Mar-Nov
+3572,KAE,,Kake Seaplane Base,"Kake, Alaska, United States",UTC−09:00,Mar–Nov
+3573,KAF,,Karato Airport,"Karato, Papua New Guinea",UTC+11:00,
+3577,KAK,,Kar Airport,"Kar, Papua New Guinea",UTC+10:00,
+3594,KBB,,Kirkimbie Airport[1],"Kirkimbie Station, Northern Territory, Australia",UTC+09:30,
+3595,KBC,,Birch Creek Airport (FAA: Z91),"Birch Creek, Alaska, United States",UTC−09:00,Mar–Nov
+3596,KBD,,Kimberley Downs Airport,"Kimberley Downs, Western Australia, Australia",UTC+08:00,
+3597,KBE,,Bell Island Hot Springs Seaplane Base,"Bell Island, Alaska, United States",UTC−09:00,Mar–Nov
+3610,KBT,,Kaben Airport,"Kaben, Maloelap Atoll, Marshall Islands",UTC+12:00,
+3613,KBW,,Chignik Bay Seaplane Base (FAA: Z78),"Chignik, Alaska, United States",UTC−09:00,Mar–Nov
+3619,KCC,,Coffman Cove Seaplane Base,"Coffman Cove, Alaska, United States",UTC−09:00,Mar–Nov
+3620,KCD,,Kamur Airport,"Kamur, Indonesia",UTC+09:00,
+3622,KCF,,Kadanwari Airport,"Kadanwari, Pakistan",UTC+05:00,
+3623,KCG,,Chignik Fisheries Airport (closed),"Chignik, Alaska, United States",,
+3625,KCJ,,Komaio Airport,"Komaio, Papua New Guinea",UTC+10:00,
+3627,KCL,,Chignik Lagoon Airport (Chignik Flats Airport),"Chignik Lagoon, Alaska, United States",UTC−09:00,Mar–Nov
+3629,KCN,,Chernofski Harbor Seaplane Base,"Chernofski Harbor, Alaska, United States",UTC−09:00,Mar–Nov
+3631,KCP,,Kamianets-Podilskyi Airport,"Kamianets-Podilskyi, Ukraine",UTC+02:00,Mar–Oct
+3632,KCQ,,Chignik Lake Airport (FAA: A79),"Chignik Lake, Alaska, United States",UTC−09:00,Mar–Nov
+3633,KCR,,Colorado Creek Airport,"Colorado Creek, Alaska, United States",UTC−09:00,Mar–Nov
+3654,KDS,,Kamaran Downs Airport,"Kamaran Downs, Queensland, Australia",UTC+10:00,
+3658,KDW,,Victoria Reservoir Seaplane Base[1],"Kandy, Sri Lanka",UTC+05:30,
+3661,KDZ,,Polgolla Reservoir Seaplane Base[1],"Kandy, Sri Lanka",UTC+05:30,
+3663,KEB,,Nanwalek Airport,"Nanwalek, Alaska, United States",UTC−09:00,Mar–Nov
+3669,KEH,,Kenmore Air Harbor (FAA: S60),"Kenmore, Washington, United States",UTC−08:00,Mar–Nov
+3672,KEK,,Ekwok Airport,"Ekwok, Alaska, United States",UTC−09:00,Mar–Nov
+3684,KEW,,Keewaywin Airport (TC LID: CPV8),"Keewaywin, Ontario, Canada",UTC−06:00,Mar–Nov
+3687,KEZ,,Kelani River-Peliyagoda Waterdrome[1],"Colombo, Sri Lanka",UTC+05:30,
+3691,KFM,,Kirby Lake Airport,"Wood Buffalo, Alberta, Canada",UTC−06:00,Mar–Nov
+3707,KGM,,Kungim Airport[1],"Kungim, Papua New Guinea",UTC+10:00,
+3711,KGR,,Kulgera Airport,"Kulgera, Northern Territory, Australia",UTC+09:30,
+3718,KGZ,,Glacier Creek Airport,"Glacier Creek, Alaska, United States",UTC−09:00,Mar–Nov
+3730,KHO,,Khoka Moya Airport,"Manyeleti, South Africa",UTC+02:00,
+3734,KHU,,Kremenchuk Airport,"Kremenchuk, Ukraine",UTC+02:00,Mar–Oct
+3737,KHX,,Kihihi Airstrip[1],"Kihihi, Uganda",UTC+03:00,
+3740,KIA,,Kaiapit Airport,"Kaiapit, Papua New Guinea",UTC+10:00,
+3741,KIB,,Ivanof Bay Seaplane Base,"Ivanof Bay, Alaska, United States",UTC−09:00,Mar–Nov
+3745,KIF,,Kingfisher Lake Airport,"Kingfisher Lake, Ontario, Canada",UTC−06:00,Mar–Nov
+3746,KIG,,Koingnaas Airport,"Koingnaas, South Africa",UTC+02:00,
+3751,KIL,,Kilwa Airport,"Kilwa, Democratic Republic of the Congo",UTC+02:00,
+3754,KIO,,Kili Airport (FAA: Q51),"Kili Island, Marshall Islands",UTC+12:00,
+3760,KIU,,Kiunga Airport,"Kiunga, Kenya",UTC+03:00,
+3765,KIZ,,Kikinonda Airport,"Kikinonda, Papua New Guinea",UTC+10:00,
+3767,KJH,,Kaili Huangping Airport,"Kaili, Guizhou, China",UTC+08:00,
+3772,KJU,,Kamiraba Airport,"Kamiraba, Papua New Guinea",UTC+10:00,
+3773,KJX,,Blangpidie Airport,"Blangpidie, Southwest Aceh Regency, Indonesia",UTC+07:00,
+3775,KKB,,Kitoi Bay Seaplane Base,"Kitoi Bay, Alaska, United States",UTC−09:00,Mar–Nov
+3779,KKG,,Konawaruk Airport,"Konawaruk, Guyana",UTC−04:00,
+3781,KKI,,Akiachak Airport (FAA: Z13),"Akiachak, Alaska, United States",UTC−09:00,Mar–Nov
+3783,KKK,,Kalakaket Creek Air Station (FAA: 1KC),"Kalakaket Creek, Alaska, United States: Google Earth view",UTC−09:00,Mar–Nov
+3784,KKL,,Karluk Lake Seaplane Base,"Karluk Lake, Alaska, United States",UTC−09:00,Mar–Nov
+3792,KKT,,Kentland Municipal Airport (FAA: 50I),"Kentland, Indiana, United States",UTC−06:00,Mar–Nov
+3793,KKU,,Ekuk Airport,"Ekuk, Alaska, United States",UTC−09:00,Mar–Nov
+3807,KLL,,Levelock Airport (FAA: 9Z8),"Levelock, Alaska, United States",UTC−09:00,Mar–Nov
+3821,KMB,,Koinambe Airport,"Koinambe, Papua New Guinea",UTC+10:00,
+3831,KMM,,Kimam Airport,"Kimam, Indonesia",UTC+09:00,
+3838,KMT,,Kampot Airport,"Kampot, Cambodia",UTC+07:00,
+3843,KMY,,Moser Bay Seaplane Base,"Moser Bay, Alaska, United States",UTC−09:00,Mar–Nov
+3855,KNL,,Kelanoa Airport,"Kelanoa, Papua New Guinea",UTC+10:00,
+3870,KOD,,Kotabangun Airport,"Kotabangun, Indonesia",UTC+08:00,
+3878,KOL,,Koumala Airport,"Koumala, Central African Republic",UTC+01:00,
+3879,KOM,,Komo-Manda Airport,"Komo-Manda, Papua New Guinea",UTC+10:00,
+3880,KON,,Kontum Airport,"Kon Tum, Vietnam",UTC+07:00,
+3891,KOY,,Olga Bay Seaplane Base,"Olga Bay, Alaska, United States",UTC−09:00,Mar–Nov
+3892,KOZ,,Ouzinkie Airport (FAA: 4K5),"Ouzinkie, Alaska, United States",UTC−09:00,Mar–Nov
+3894,KPB,,Point Baker Seaplane Base,"Point Baker, Alaska, United States",UTC−09:00,Mar–Nov
+3898,KPG,,Kurupung Airport,"Kurupung, Guyana",UTC−04:00,
+3900,KPL,,Kapal Airport,"Kapal, Papua New Guinea",UTC+10:00,
+3905,KPR,,Port Williams Seaplane Base,"Port Williams, Alaska, United States",UTC−09:00,Mar–Nov
+3907,KPT,,Jackpot Airport (Hayden Field) (FAA: 06U),"Jackpot, Nevada, United States",UTC−07:00,Mar–Nov
+3910,KPY,,Port Bailey Seaplane Base,"Port Bailey, Alaska, United States",UTC−09:00,Mar–Nov
+3919,KRD,,Kurundi Airport,"Kurundi Station, Northern Territory, Australia",UTC+09:30,
+3936,KRV,,Kimwarer Airport (Kerio Valley Airport),"Kimwarer, Kenya",UTC+03:00,
+3947,KSG,,Kisengam Airport,"Kisengam, Papua New Guinea",UTC+10:00,
+3968,KTB,,Thorne Bay Seaplane Base,"Thorne Bay, Alaska, United States",UTC−09:00,Mar–Nov
+3969,KTC,,Katiola Airport,"Katiola, Ivory Coast",UTC±00:00,
+3974,KTH,,Tikchik Lodge Seaplane Base (FAA: AK56),"Tikchik, Alaska, United States",UTC−09:00,Mar–Nov
+3976,KTJ,,Kichwa Tembo Airport[1],"Kichwa Tembo, Kenya",UTC+03:00,
+3977,KTK,,Kunua Airport,"Kunua, Papua New Guinea",UTC+11:00,
+4004,KUP,,Kupiano Airport,"Kupiano, Papua New Guinea",UTC+10:00,
+4011,KUX,,Kuyol Airport[1],"Kuyol, Papua New Guinea",UTC+11:00,
+4012,KUY,,Kamusi Airport[1],"Kamusi, Papua New Guinea",UTC+11:00,
+4017,KVE,,Kitava Island Airport,"Kitava Island, Papua New Guinea",UTC+10:00,
+4023,KVR,,Kavalerovo Airport[1],"Kavalerovo, Primorsky Krai, Russia",UTC+10:00,
+4024,KVU,,Korolevu Seaplane Base,"Korolevu, Fiji",UTC+12:00,Nov–Jan
+4027,KWB,,Dewadaru Airport,"Karimun Java, Indonesia",UTC+07:00,
+4028,KWD,,Kavadja Airport[1],"Kavadja, Central African Republic",UTC+01:00,
+4030,KWF,,Waterfall Seaplane Base,"Waterfall, Alaska, United States",UTC−09:00,Mar–Nov
+4040,KWP,,West Point Village Seaplane Base,"West Point, Alaska, United States",UTC−09:00,Mar–Nov
+4041,KWR,,Kwai Harbour Airport,"Kwai Harbour, Solomon Islands",UTC+11:00,
+4044,KWV,,Kurwina Airport,"Kurwina, Papua New Guinea",UTC+11:00,
+4045,KWX,,Kiwai Island Airport,"Kiwai Island, Papua New Guinea",UTC+10:00,
+4046,KWY,,Kiwayu Airport,"Kiwayu, Kenya",UTC+03:00,
+4048,KXA,,Kasaan Seaplane Base,"Kasaan, Alaska, United States",UTC−09:00,Mar–Nov
+4053,KXR,,Karoola Airport,"Karoola, Papua New Guinea",UTC+10:00,
+4061,KYO,,Tampa North Aero Park[1] (FAA: X39),"Tampa, Florida, United States",UTC−05:00,Mar–Nov
+4068,KZB,,Zachar Bay Seaplane Base,"Zachar Bay, Alaska, United States",UTC−09:00,Mar–Nov
+4070,KZD,,Krakor Airport,"Krakor, Cambodia",UTC+07:00,
+4079,LAB,,Lab Lab Airport,"Lab Lab, Papua New Guinea",UTC+10:00,
+4080,LAC,,Layang-Layang Airport (Swallow Reef Airport),"Layang-Layang Island, Sabah, Malaysia",UTC+08:00,
+4108,LBH,,Palm Beach Water Airport,"Palm Beach, New South Wales, Australia",UTC+10:00,Oct-Apr
+4111,LBK,,Liboi Airport,"Liboi, Kenya",UTC+03:00,
+4113,LBM,,Luabo Airport,"Luabo, Mozambique",UTC+02:00,
+4114,LBN,,Lake Baringo Airport,"Lake Baringo, Kenya",UTC+03:00,
+4116,LBP,,Long Banga Airport,"Long Banga, Sarawak, Malaysia",UTC+08:00,
+4128,LCB,,Pontes e Lacerda Airport,"Pontes e Lacerda, Mato Grosso, Brazil",UTC−04:00,Oct-Feb
+4142,LCP,,Loncopué Airport,"Loncopué, Neuquén, Argentina",UTC−03:00,
+4144,LCR,,La Chorrera Airport,"La Chorrera, Colombia",UTC−05:00,
+4145,LCT,,Shijiazhuang Luancheng Airport,"Shijiazhuang, Hebei, China",UTC+08:00,
+4161,LDR,,Lawdar Airport,"Lawdar, Yemen",UTC+03:00,
+4165,LDW,,Lansdowne Airport,"Lansdowne, Western Australia, Australia",UTC+08:00,
+4175,LEG,,Aleg Airport,"Aleg, Mauritania",UTC±00:00,
+4183,LEO,,Lékoni Airport,"Lékoni, Gabon",UTC+01:00,
+4202,LFQ,,Linfen Qiaoli Airport[2],"Linfen, Shanxi, China",UTC+08:00,
+4210,LGE,,Lake Gregory Airport,"Lake Gregory, Western Australia, Australia",UTC+08:00,
+4217,LGM,,Laiagam Airport,"Laiagam, Papua New Guinea",UTC+10:00,
+4218,LGN,,Linga Linga Airport,"Linga Linga, Papua New Guinea",UTC+10:00,
+4228,LGY,,Lagunillas Airport,"Lagunillas, Venezuela",UTC−04:00,
+4234,LHP,,Lehu Airport,"Lehu, Papua New Guinea",UTC+11:00,
+4241,LIB,,Limbunya Airport,"Limbunya Station, Northern Territory, Australia",UTC+09:30,
+4248,LIK,,Likiep Airport,"Likiep Atoll, Marshall Islands",UTC+12:00,
+4258,LIV,,Livengood Camp Airport (FAA: 4AK),"Livengood, Alaska, United States",UTC−09:00,Mar-Nov
+4262,LIZ,,Loring International Airport (FAA: ME16),"Limestone, Maine, United States",UTC−05:00,Mar-Nov
+4269,LKC,,Lekana Airport,"Lekana, Republic of the Congo",UTC+01:00,
+4271,LKE,,Kenmore Air Harbor Seaplane Base (Seattle Lake Union SPB) (FAA: W55),"Seattle, Washington, United States",UTC−08:00,Mar-Nov
+4279,LKR,,Las Khorey Airport,"Las Khorey (Laasqoray), Somalia",UTC+03:00,
+4280,LKU,,Lake Turkana Airport,"Lake Turkana, Kenya",UTC+03:00,
+4291,LLH,,Las Limas Airport,"Las Limas, Honduras",UTC−06:00,
+4295,LLL,,Lissadell Airport,"Lissadell, Western Australia, Australia",UTC+08:00,
+4296,LLM,,Lomlom Airport,"Lomlom, Reef Islands, Solomon Islands",,
+4298,LLO,,Palopo Lagaligo Airport,"Palopo, Indonesia",UTC+08:00,
+4299,LLP,,Linda Downs Airport,"Linda Downs, Queensland, Australia",UTC+10:00,
+4309,LMD,,Los Menucos Airport,"Los Menucos, Río Negro, Argentina",UTC−03:00,
+4311,LMG,,Lamassa Airport,"Lamassa, Papua New Guinea",UTC+10:00,
+4312,LMH,,Limón Airport,"Limón, Honduras",UTC−06:00,
+4313,LMI,,Lumi Airport,"Lumi, Papua New Guinea",UTC+10:00,
+4314,LML,,Lae Airport,"Lae Atoll, Marshall Islands",UTC+12:00,
+4324,LMX,,Lopéz de Micay Airport,"El Trapiche, Colombia",UTC−05:00,
+4325,LMY,,Lake Murray Airport,"Lake Murray, Papua New Guinea",UTC+10:00,
+4326,LMZ,,Palma Airport,"Palma, Mozambique",UTC+02:00,
+4329,LNC,,Lengbati Airport,"Lengbati, Papua New Guinea",UTC+10:00,
+4332,LNF,,Munbil Airport,"Munbil, Papua New Guinea",UTC+10:00,
+4333,LNG,,Lese Airport,"Lese, Papua New Guinea",UTC+10:00,
+4339,LNM,,Langimar Airport,"Langimar, Papua New Guinea",UTC+10:00,
+4343,LNQ,,Loani Airport,"Loani, Papua New Guinea",UTC+10:00,
+4356,LOF,,Loen Airport,"Loen Island, Namu Atoll, Marshall Islands",UTC+12:00,
+4361,LOM,,Francisco Primo de Verdad National Airport,"Lagos de Moreno, Jalisco, Mexico",UTC−06:00,Apr-Oct
+4362,LON[2],,metropolitan area3,"London, England, United Kingdom",UTC±00:00,Mar-Oct
+4371,LOX,,Los Tablones Airport,"Los Tablones, Guatemala",UTC−06:00,
+4386,LPN,,Leron Plains Airport[2],"Leron Plains, Papua New Guinea",UTC+10:00,
+4390,LPS,,Fishermans Bay/LPS Seaplane Base,"Lopez Island, Washington, United States",UTC−08:00,Mar-Nov
+4405,LRI,,Lorica Airport,"Lorica, Colombia",UTC−05:00,
+4409,LRQ,,Laurie River Airport,"Laurie River, Manitoba, Canada",UTC−06:00,Mar-Nov
+4422,LSJ,,Long Island Airport,"Long Island, Papua New Guinea",UTC+10:00,
+4439,LTB,,Latrobe Airport,"Latrobe, Tasmania, Australia",UTC+10:00,Oct-Apr
+4442,LTF,,Leitre Airport,"Leitre, Papua New Guinea",UTC+10:00,
+4457,LTW,,St. Mary's County Regional Airport (FAA: 2W6)(Captain Walter Francis Duke Regional Airport),"Leonardtown, Maryland, United States",UTC−05:00,Mar-Nov
+4458,LTX,,Cotopaxi International Airport,"Latacunga, Ecuador",UTC−05:00,
+4467,LUI,,La Unión Airport,"La Unión, Honduras",UTC−06:00,
+4485,LVD,,Lime Village Airport (FAA: 2AK),"Lime Village, Alaska, United States",UTC−09:00,Mar-Nov
+4494,LWA,,Lebak Airport,"Lebak, Philippines",UTC+08:00,
+4499,LWI,,Lowai Airport,"Lowai, Papua New Guinea",UTC+10:00,
+4524,LYK,,Lunyuk Airport,"Lunyuk, Indonesia",UTC+08:00,
+4530,LYT,,Lady Elliot Island Airport,"Lady Elliot Island, Queensland, Australia",UTC+10:00,
+4558,MAP,,Mamai Airport,"Mamai, Papua New Guinea",UTC+10:00,
+4564,MAV,,Maloelap Airport (FAA: 3N1),"Taroa Island, Maloelap Atoll, Marshall Islands",UTC+12:00,
+4581,MBM,,Mkambati Airport[1],"Mkambati, South Africa",UTC+02:00,
+4582,MBN,,Mount Barnett Airport,"Mount Barnett, Western Australia, Australia",UTC+08:00,
+4590,MBV,,Masa Airport,"Masa, Papua New Guinea",UTC+10:00,
+4627,MDJ,,Madras Municipal Airport (FAA: S33),"Madras, Oregon, United States",UTC−08:00,Mar-Nov
+4630,MDM,,Munduku Airport,"Munduku, Papua New Guinea",UTC+10:00,
+4638,MDV,,Médouneu Airport,"Médouneu, Gabon",UTC+01:00,
+4648,MEF,,Melfi Airport,"Melfi, Chad",UTC+01:00,
+4670,MFB,,Monfort Airport,"Monfort, Colombia",UTC−05:00,
+4676,MFH,,Mesquite Airport (FAA: 67L),"Mesquite, Nevada, United States",UTC−08:00,Mar-Nov
+4680,MFL,,Mount Full Stop Airport[1],"Wandovale, Queensland, Australia",UTC+10:00,
+4683,MFO,,Manguna Airport,"Manguna, Papua New Guinea",UTC+10:00,
+4690,MFW,,Magaruque Airport,"Magaruque Island, Mozambique",UTC+02:00,
+4692,MFY,,Mayfa'ah Airport,"Mayfa'ah, Yemen",UTC+03:00,
+4693,MFZ,,Meselia Airport,"Meselia, Papua New Guinea",UTC+10:00,
+4700,MGG,,Margarima Airport,"Margarima, Papua New Guinea",UTC+10:00,
+4702,MGI,,Aransas National Wildlife Refuge Airport[1] (FAA: XS10),"Matagorda Island, Texas, United States",UTC−06:00,Mar-Nov
+4708,MGO,,Manega Airport[1],"Manega, Gabon",UTC+01:00,
+4709,MGP,,Manga Airport,"Manga, Papua New Guinea",UTC+10:00,
+4724,MHF,,Morichal Airport,"Morichal, Colombia",UTC−05:00,
+4735,MHS,,Dunsmuir Municipal-Mott Airport[1] (FAA: 1O6),"Mount Shasta, California, United States",UTC−08:00,Mar-Nov
+4741,MHY,,Morehead Airport,"Morehead, Papua New Guinea",UTC+10:00,
+4748,MIF,,Roy Hurd Memorial Airport (FAA: E01),"Monahans, Texas, United States",UTC−06:00,Mar-Nov
+4754,MIL[1],,metropolitan area1,"Milan, Lombardy, Italy",UTC+01:00,Mar-Oct
+4766,MIX,,Mirití-Paraná Airport,"Mirití-Paraná, Colombia",UTC−05:00,
+4767,MIY,,Mittiebah Airport[1],"Mittiebah Station, Northern Territory, Australia",UTC+09:30,
+4768,MIZ,,Mainoru Airport[1],"Mainoru, Northern Territory, Australia",UTC+09:30,
+4770,MJB,,Mejit Airport (FAA: Q30),"Mejit Island, Marshall Islands",UTC+12:00,
+4773,MJE,,Majkin Airport,"Majkin, Marshall Islands",UTC+12:00,
+4776,MJJ,,Moki Airport,"Moki, Papua New Guinea",UTC+10:00,
+4784,MJR,,Miramar Airport,"Miramar, Buenos Aires, Argentina",UTC−03:00,
+4785,MJS,,Maganja da Costa Airport[1],"Maganja da Costa, Mozambique",UTC+02:00,
+4803,MKN,,Malekolon Airport,"Malekolon, Papua New Guinea",UTC+10:00,
+4825,MLK,,Malta Airport[1] (FAA: M75),"Malta, Montana, United States",UTC−07:00,Mar-Nov
+4831,MLQ,,Malalaua Airport[1],"Malalaua, Papua New Guinea",UTC+10:00,
+4841,MMA[1],,metropolitan area2,"Malmö, Sweden",UTC+01:00,Mar-Oct
+4854,MMN,,Minute Man Air Field[1] (FAA: 6B6),"Stow, Massachusetts, United States",UTC−05:00,Mar-Nov
+4861,MMV,,Mal Island Airport,"Mal Island, Papua New Guinea",UTC+10:00,
+4862,MMW,,Moma Airport,"Moma, Mozambique",UTC+02:00,
+4869,MND,,Medina Airport[1],"Medina, Colombia",UTC−05:00,
+4873,MNH,,Al-Musannah Airport[1],"Al-Musannah, Oman",UTC+04:00,
+4881,MNP,,Maron Island Airport[1],"Maron Island, Papua New Guinea",UTC+10:00,
+4885,MNT,,Minto Al Wright Airport (FAA: 51Z),"Minto, Alaska, United States",UTC−09:00,Mar-Nov
+4887,MNV,,Mount Valley Airport[1],"Mount Valley, Northern Territory, Australia",UTC+09:30,
+4899,MOH,,Maleo Airport,"Morowali, Indonesia",UTC+08:00,
+4909,MOS,,Moses Point Airport[1],"Elim, Alaska, United States",UTC−09:00,Mar-Nov
+4913,MOW[1],,metropolitan area3,"Moscow, Russia",UTC+03:00,
+4915,MOY,,Monterrey Airport,"Monterrey, Colombia",UTC−05:00,
+4918,MPB,,Miami Seaplane Base (FAA: X44),"Miami, Florida, United States",UTC−05:00,Mar-Nov
+4921,MPF,,Mapoda Airport,"Mapoda, Papua New Guinea",UTC+10:00,
+4922,MPG,,Makini Airport,"Makini, Papua New Guinea",UTC+10:00,
+4924,MPI,,Mamitupu Airport,"Mamitupo, Panama",UTC−05:00,
+4930,MPP,,Mulatupo Airport,"Mulatupo, Panama",UTC−05:00,
+4935,MPU,,Mabua Airstrip,"Mabua, Papua New Guinea",UTC+10:00,
+4938,MPX,,Miyanmin Airport,"Miyanmin, Papua New Guinea",UTC+10:00,
+4954,MQO,,Malam Airport[1],"Malam, Papua New Guinea",UTC+10:00,
+4957,MQR,,Mosquera Airport[1],"Mosquera, Colombia",UTC−05:00,
+4961,MQV,,Mostaganem Airport[1],"Mostaganem, Algeria",UTC+01:00,
+4966,MRA,,Misrata Airport,"Misrata, Libya",UTC+02:00,
+4970,MRE,,Mara Serena Airport,"Maasai Mara, Kenya",UTC+03:00,
+4973,MRH,,May River Airport[1],"May River, Papua New Guinea",UTC+10:00,
+4977,MRL,,Miners Lake Airport[1],"Miners Lake, Queensland, Australia",UTC+10:00,
+4985,MRT,,Moroak Airport,"Moroak, Northern Territory, Australia",UTC+09:30,
+4994,MSD,,Mount Pleasant Airport (FAA: 43U),"Mount Pleasant, Utah, United States",UTC−07:00,Mar-Nov
+4999,MSI,,Masalembo Airport[1],"Masalembo, Indonesia",UTC+07:00,
+5022,MTG,,Mato Grosso Airport,"Mato Grosso, Brazil",UTC−04:00,Oct-Feb
+5036,MTU,,Montepuez Airport,"Montepuez, Mozambique",UTC+02:00,
+5047,MUF,,Muting Airport,"Muting, Indonesia",UTC+09:00,
+5071,MVG,,Mevang Airport,"Mevang, Gabon",UTC+01:00,
+5072,MVH,,Macksville Airport[1],"Macksville, New South Wales, Australia",UTC+10:00,Oct-Apr
+5073,MVI,,Manetai Airport[1],"Manetai, Papua New Guinea",UTC+11:00,
+5076,MVM,,Kayenta Airport (FAA: 0V7),"Kayenta, Arizona, United States",UTC−07:00,Mar-Nov
+5096,MWG,,Marawaka Airport,"Marawaka, Papua New Guinea",UTC+10:00,
+5098,MWI,,Maramuni Airport[1],"Maramuni, Papua New Guinea",UTC+10:00,
+5106,MWR,,Motswari Airstrip[1],"Motswari, South Africa",UTC+02:00,
+5108,MWU,,Mussau Island Airport,"Mussau Island, Papua New Guinea",UTC+10:00,
+5115,MXC,,Monticello Airport (FAA: U43),"Monticello, Utah, United States",UTC−07:00,Mar-Nov
+5119,MXG,,Marlboro Airport[1] (FAA: 9B1),"Marlborough, Massachusetts, United States",UTC−05:00,Mar-Nov
+5123,MXK,,Mindik Airport,"Mindik, Papua New Guinea",UTC+10:00,
+5129,MXR,,Myrhorod Air Base,"Myrhorod, Ukraine",UTC+02:00,Mar-Oct
+5145,MYH,,Marble Canyon Airport[1] (FAA: L41),"Marble Canyon, Arizona, United States",UTC−07:00,
+5148,MYK,,May Creek Airport,"May Creek, Alaska, United States",UTC−09:00,Mar-Nov
+5160,MYX,,Menyamya Airport,"Menyamya, Papua New Guinea",UTC+10:00,
+5166,MZD,,Méndez Airport,"Santiago de Méndez, Ecuador",UTC−05:00,
+5176,MZN,,Minj Airport,"Minj, Papua New Guinea",UTC+10:00,
+5190,NAD,,Macanal Airport[1],"Macanal, Colombia",,
+5192,NAF,,Banaina Airport[1],"Banaina, Indonesia",,
+5212,NBA,,Nambaiyufa Airport[1],"Nambaiyufa, Papua New Guinea",,
+5243,NDF,,N'dalatando Airport[1],"N'dalatando, Angola",,
+5245,NDI,,Namudi Airport[1],"Namudi, Papua New Guinea",,
+5247,NDK,,Namorik Airport (Namdrik Airport) (FAA: 3N0),"Namdrik Atoll, Marshall Islands",,
+5250,NDN,,Nadunumu Airport[1],"Nadunumu, Papua New Guinea",,
+5251,NDP,,Naval Air Station Ellyson Field[2] (now retired),"Pensacola, Florida, United States",,
+5279,NGN,,Narganá Airport[1],"Narganá, Panama",,
+5283,NGR,,Ningerum Airport[1],"Ningerum, Papua New Guinea",,
+5292,NHS,,Nushki Airport[1],"Nushki, Pakistan",,
+5302,NIK,,Niokolo-Koba Airport[1],"Niokolo-Koba, Senegal",,
+5304,NIN,,Ninilchik Airport,"Ninilchik, Alaska, United States",,
+5307,NIR,,Chase Field Industrial Complex[1] (FAA: 1XA2),"Beeville, Texas, United States",,
+5308,NIS,,Simberi Airport,"Simberi Island, Papua New Guinea",,
+5316,NKA,,Nkan Airport[1],"Ntoum (Nkan), Gabon",,
+5317,NKB,,Noonkanbah Airport[1],"Noonkanbah Station, Western Australia, Australia",,
+5319,NKD,,Sinak Airport[1],"Sinak, Indonesia",,
+5321,NKI,,Naukati Bay Seaplane Base[1] (FAA: AK62),"Naukati Bay, Alaska, United States",,
+5324,NKN,,Nankina Airport[1],"Nankina, Papua New Guinea",,
+5325,NKO,,Ankokoambo Airport[1],"Ankokoambo, Madagascar",,
+5326,NKP,,Nukutepipi Airport[1],"Nukutepipi, Tuamotus, French Polynesia",,
+5335,NLE,,Jerry Tyler Memorial Airport (FAA: 3TR),"Niles, Michigan, United States",,
+5338,NLH,,Ninglang Luguhu Airport[1],"Ninglang, Yunnan, China",,
+5342,NLN,,Kneeland Airport[1] (FAA: O19),"Arcata / Eureka, California, United States",,
+5345,NLS,,Nicholson Airport[1],"Nicholson, Western Australia, Australia",,
+5354,NMG,,San Miguel Airport[1],"San Miguel, Panama",,
+5355,NML,,Fort McMurray/Mildred Lake Airport[1] (TC: CAJ3),"Fort McMurray, Alberta, Canada",,
+5356,NMN,,Nomane Airport[1],"Nomane, Papua New Guinea",,
+5357,NMP,,New Moon Airport[1],"New Moon, Queensland, Australia",,
+5363,NND,,Nangade Airport[1],"Nangade, Mozambique",,
+5366,NNK,,Naknek Airport (FAA: 5NK),"Naknek, Alaska, United States",,
+5379,NOI,,Novorossiysk Airport[1],"Novorossiysk, Krasnodar Krai, Russia",,
+5384,NOO,,Naoro Airport[1],"Naoro, Papua New Guinea",,
+5394,NPG,,Nipa Airport[1],"Nipa, Papua New Guinea",,
+5395,NPH,,Nephi Municipal Airport (FAA: U14),"Nephi, Utah, United States",,
+5398,NPP,,Napperby Airport[1],"Napperby, Northern Territory, Australia",,
+5401,NPU,,San Pedro de Urabá Airport[1],"San Pedro de Urabá, Colombia",,
+5418,NRI,,Grand Lake Regional Airport[1] (FAA: 3O9),"Afton, Oklahoma, United States",,
+5426,NRY,,Newry Airport[1],"Newry Station, Northern Territory, Australia",,
+5427,NSB,,North Seaplane Base[1],"Bimini, Bahamas",,
+5439,NTA,,Natadola Seaplane Base[1],"Natadola Bay, Fiji",,
+5441,NTC,,Santa Carolina Airport[1],"Santa Carolina, Mozambique",,
+5445,NTI,,Stenkol Airport[1],"Bintuni, Indonesia",,
+5446,NTJ,,Manti-Ephraim Airport (FAA: 41U),"Manti, Utah, United States",,
+5457,NUA,,Gregory Lake Seaplane Base[1],"Nuwara Eliya, Sri Lanka",,
+5461,NUF,,Castlereigh Reservoir Seaplane Base[1],"Hatton, Sri Lanka",,
+5462,NUG,,Nuguria Airstrip[1],"Nuguria, Papua New Guinea",,
+5463,NUH,,Nunchía Airport[1],"Nunchía, Colombia",,
+5470,NUP,,Nunapitchuk Airport (FAA: 16A),"Nunapitchuk, Alaska, United States",,
+5474,NUT,,Nutuve Airport[1],"Nutuve, Papua New Guinea",,
+5483,NVN,,Nervino Airport (FAA: O02),"Beckwourth, California, United States",,
+5484,NVP,,Novo Aripuanã Airport[1],"Novo Aripuanã, Amazonas, Brazil",,
+5490,NWH,,Parlin Field (FAA: 2B3),"Newport, New Hampshire, United States",,
+5492,NWT,,Nowata Airport[1],"Nowata, Papua New Guinea",,
+5494,NYC[1],,metropolitan area2,"New York City, New York, United States",,
+5501,NYS,,New York Skyports Seaplane Base,"New York City, United States",,
+5511,NZL,,Zhalantun Chengjisihan Airport[1],"Zhalantun, Inner Mongolia, China",,
+5526,OBA,,Oban Airport[1],"Oban, Queensland, Australia",,
+5528,OBD,,Obano Airport,"Obano, Indonesia",,
+5533,OBM,,Morobe Airport[1],"Morobe, Papua New Guinea",,
+5539,OCA,,Ocean Reef Club Airport (FAA: 07FA),"Key Largo, Florida, United States",,
+5547,OCS,,Corisco International Airport[1],"Corisco Island, Equatorial Guinea",,
+5552,ODC,,Oakdale Airport[1] (FAA: O27),"Oakdale, California, United States",,
+5557,ODL,,Cordillo Downs Airport[1],"Cordillo Downs, South Australia, Australia",,
+5558,ODM,,Garrett County Airport[1] (FAA: 2G4),"Oakland, Maryland, United States",,
+5579,OGE,,Ogeramnang Airport[1],"Ogeramnang, Papua New Guinea",,
+5582,OGM,,Ustupu-Ogobsucum Airport[1],"Ustupo, Panama",,
+5592,OHB,,Ambohibary Airport[1],"Moramanga, Madagascar",,
+5607,OJU,,Tanjung Api Airport,"Ampana, Tojo Una-Una Regency, Central Sulawesi, Indonesia",,
+5614,OKG,,Okoyo Airport[1],"Okoyo, Republic of the Congo",,
+5629,OKV,,Okao Airport[1],"Okao, Papua New Guinea",,
+5637,OLH,,Old Harbor Airport (FAA: 6R7),"Old Harbor, Alaska, United States",,
+5641,OLL,,Oyo Ollombo Airport,"Oyo, Republic of the Congo",,
+5646,OLQ,,Olsobip Airport[1],"Olsobip, Papua New Guinea",,
+5651,OLX,,Olkiombo Airstrip[1],"Olkiombo, Kenya",,
+5665,OML,,Omkalai Airport[1],"Omkalai, Papua New Guinea",,
+5670,OMY,,Thbeng Meanchey Airport[1] (Preah Vinhear Airport),"Phnom Tbeng Meanchey, Cambodia",,
+5674,ONE,,Onepusu Airport[1],"Onepusu, Solomon Islands",,
+5676,ONH,,Oneonta Municipal Airport (FAA: N66),"Oneonta, New York, United States",,
+5698,OPB,,Open Bay Airport[1],"Open Bay, Papua New Guinea",,
+5723,ORS,,Orpheus Island Resort Waterport,"Orpheus Island, Queensland, Australia",,
+5731,OSA[1],,metropolitan area1,"Osaka, Honshu, Japan",,
+5732,OSB,,Grand Glaize-Osage Beach Airport (FAA: K15),"Osage Beach, Missouri, United States",,
+5735,OSE,,Omora Airport[1],"Omora, Papua New Guinea",,
+5737,OSG,,Ossima Airport[1],"Ossima, Papua New Guinea",,
+5753,OTA,,Mota Airport[1],"Mota, Ethiopia",,
+5755,OTD,,Contadora Airport,"Contadora Island, Panama",,
+5763,OTN,,Ed-Air Airport (FAA: 2IG4),"Oaktown, Indiana, United States",,
+5766,OTS,,Anacortes Airport (FAA: 74S),"Anacortes, Washington, United States",,
+5767,OTT,,Andre Maggi Airport[1],"Cotriguaçu, Mato Grosso, Brazil",,
+5770,OTY,,Oria Airport[1],"Oria, Papua New Guinea",,
+5777,OUK,,Out Skerries Airport[1],"Out Skerries, Scotland, United Kingdom",,
+5779,OUM,,Oum Hadjer Airport,"Oum Hadjer, Chad",,
+5784,OUU,,Ouanga Airport[1],"Ouanga, Gabon",,
+5797,OWE,,Owendo Airport[1],"Owendo, Gabon",,
+5803,OXO,,Orientos Airport[1],"Orientos, Queensland, Australia",,
+5808,OYG,,Moyo Airport[1],"Moyo Town, Uganda",,
+5837,PAR[1],,metropolitan area1,"Paris, Île-de-France, France",,
+5842,PAW,,Pambwa Airport[1],"Pambwa, Papua New Guinea",,
+5862,PBT,,Puerto Leda Airport[1],"Puerto Leda, Paraguay",,
+5869,PCC,,Puerto Rico Airport[1],"Puerto Rico, Colombia",,
+5873,PCJ,,Puerto La Victoria Airport[1],"Puerto Casado (La Victoria), Paraguay",,
+5875,PCM,,Playa del Carmen Airport,"Playa del Carmen, Quintana Roo, Mexico",,
+5879,PCQ,,Boun Neua Airport[1],"Phongsaly, Laos",,
+5882,PCT,,Princeton Airport (FAA: 39N),"Princeton / Rocky Hill, New Jersey, United States",,
+5883,PCU,,Poplarville-Pearl River County Airport[1] (FAA: M13),"Poplarville, Mississippi, United States",,
+5884,PCV,,Punta Chivato Airstrip[1],"Punta Chivato, Baja California Sur, Mexico",,
+5886,PDB,,Pedro Bay Airport (FAA: 4K0),"Pedro Bay, Alaska, United States",,
+5892,PDI,,Pindiu Airport[1],"Pindiu, Papua New Guinea",,
+5895,PDM,,Pedasí Airport[1] (Capt. J. Montenegro Airport),"Pedasí, Panama",,
+5896,PDN,,Parndana Airport[1],"Parndana, South Australia, Australia",,
+5899,PDR,,Presidente Dutra Airport[1],"Presidente Dutra, Maranhão, Brazil",,
+5907,PEB,,Pebane Airport[1],"Pebane, Mozambique",,
+5908,PEC,,Pelican Seaplane Base[1],"Pelican, Alaska, United States",,
+5919,PEP,,Peppimenarti Airport[1],"Peppimenarti, Northern Territory, Australia",,
+5928,PEY,,Penong Airport[1],"Penong, South Australia, Australia",,
+5933,PFM,,Primrose Aerodrome,"Wood Buffalo, Alberta, Canada",,
+5938,PGB,,Pangoa Airport[1],"Pangoa, Papua New Guinea",,
+5939,PGC,,Grant County Airport (FAA: W99),"Petersburg, West Virginia, United States",,
+5941,PGE,,Yegepa Airport,"Yegepa, Papua New Guinea",,
+5947,PGM,,Port Graham Airport,"Port Graham, Alaska, United States",,
+5948,PGN,,Pangia Airport[1],"Pangia, Papua New Guinea",,
+5952,PGS,,Grand Canyon Caverns Airport (FAA: L37),"Peach Springs, Arizona, United States",,
+5963,PHG,,Port Harcourt City Airport[1],"Port Harcourt, Nigeria",,
+5989,PIQ,,Pipillipai Airport[1],"Pipillipai, Guyana",,
+6013,PKM,,Port Kaituma Airport[1],"Port Kaituma, Guyana",,
+6025,PLA,,Planadas Airport[1],"Planadas, Colombia",,
+6026,PLC,,Planeta Rica Airport[1],"Planeta Rica, Colombia",,
+6028,PLE,,Paiela Airport,"Paiela, Papua New Guinea",,
+6031,PLI,,Palm Island Airport[1],"Palm Island, Saint Vincent and the Grenadines",,
+6047,PLY,,Plymouth Municipal Airport (FAA: C65),"Plymouth, Indiana, United States",,
+6059,PMN,,Pumani Airport[1],"Pumani, Papua New Guinea",,
+6061,PMP,,Pimaga Airport,"Pimaga, Papua New Guinea",,
+6065,PMT,,Paramakatoi Airport[1],"Paramakatoi, Guyana",,
+6068,PMX,,Metropolitan Airport[1] (FAA: 13MA),"Palmer, Massachusetts, United States",,
+6079,PNJ,,Penglai Shahekou Airport[1],"Penglai, Shandong, China",,
+6088,PNU,,Panguitch Municipal Airport (FAA: U55),"Panguitch, Utah, United States",,
+6123,PPH,,Parai-tepuí Airport[1],"Parai-tepuí (Peraitepuy), Venezuela",,
+6136,PPV,,Port Protection Seaplane Base (FAA: 19P),"Port Protection, Alaska, United States",,
+6138,PPX,,Param Airport[1],"Param, Papua New Guinea",,
+6140,PPZ,,Puerto Páez Airport[1],"Puerto Páez, Venezuela",,
+6142,PQD,,Batticaloa Seaplane Base[1],"Batticaloa, Sri Lanka",,
+6146,PQS,,Pilot Station Airport (FAA: 0AK),"Pilot Station, Alaska, United States",,
+6151,PRE,,Pore Airport[1],"Pore, Colombia",,
+6165,PRW,,Prentice Airport (FAA: 5N2),"Prentice, Wisconsin, United States",,
+6168,PRZ,,Prineville Airport (FAA: S39),"Prineville, Oregon, United States",,
+6185,PSQ,,Philadelphia Seaplane Base (FAA: 9N2),"Philadelphia, Pennsylvania, United States",,
+6189,PSV,,Papa Stour Airstrip[1],"Papa Stour, Scotland, United Kingdom",,
+6196,PTC,,Port Alice Seaplane Base (FAA: 16K),"Port Alice, Alaska, United States",,
+6216,PUA,,Puas Airport[1],"Puas, Papua New Guinea",,
+6223,PUI,,Pureni Airport,"Pureni, Papua New Guinea",,
+6226,PUL,,Port of Poulsbo Marina Moorage Seaplane Base (FAA: 83Q),"Poulsbo, Washington, United States",,
+6258,PWI,,Beles Airport[1],"Pawi, Ethiopia",,
+6265,PWR,,Port Walter Seaplane Base[1],"Port Walter, Alaska, United States",,
+6270,PXL,,Polacca Airport (FAA: P10),"Polacca, Arizona, United States",,
+6277,PYC,,Playón Chico Airport,"Ukupseni (Playón Chico), Panama",,
+6279,PYG,,Pakyong Airport,"Pakyong, Sikkim, India",,
+6283,PYL,,Perry Island Seaplane Base[1],"Perry Island, Alaska, United States",,
+6285,PYN,,Payán Airport[1],"Payán, Colombia",,
+6288,PYS,,Paradise Skypark[1] (FAA: CA92),"Paradise, California, United States",,
+6289,PYV,,Yaviza Airport[1],"Yaviza, Panama",,
+6290,PYY,,Pai Airport,"Pai, Thailand",,
+6301,RAA,,Rakanda Airport[1],"Rakanda, Papua New Guinea",,
+6304,RAD,,Road Town Seaplane Base[1],"Tortola, British Overseas Territory of Virgin Islands",,
+6322,RAW,,Arawa Airport[1],"Arawa, Papua New Guinea",,
+6323,RAX,,Oram Airport[1],"Oram, Papua New Guinea",,
+6330,RBF,,Big Bear City Airport[1] (FAA: L35),"Big Bear City, California, United States",,
+6334,RBK,,French Valley Airport[1] (FAA: F70),"Murrieta / Temecula, California, United States",,
+6338,RBP,,Rabaraba Airport[1],"Rabaraba, Papua New Guinea",,
+6350,RCE,,Roche Harbor Seaplane Base,"Roche Harbor, Washington, United States",,
+6355,RCN,,American River Airport[1],"American River, South Australia, Australia",,
+6367,RDE,,Merdey Airport[1] (Jahabra Airport),"Merdey, Indonesia",,
+6377,RDV,,Red Devil Airport,"Red Devil, Alaska, United States",,
+6383,REE,,Reese Airpark[1] (FAA: 8XS8),"Lubbock, Texas, United States",,
+6386,REK[1],,metropolitan area1,"Reykjavík, Iceland",,
+6391,REQ,,Reko Diq Airport[1],"Reko Diq, Pakistan",,
+6396,REW,,Churhata Airport[1],"Rewa, Madhya Pradesh, India",,
+6403,RFK,,Rollang Field[1] (FAA: 5MS1),"Rolling Fork, Mississippi, United States",,
+6409,RGE,,Porgera Airport[1],"Porgera, Papua New Guinea",,
+6416,RGR,,Ranger Municipal Airport[1] (FAA: F23),"Ranger, Texas, United States",,
+6428,RHR,,Al Hamra Seaplane Base[1],"Ras al-Khaimah, United Arab Emirates",,
+6429,RHT,,Alxa Right Banner Badanjilin Airport,"Alxa Right Banner, Inner Mongolia, China",,
+6443,RIO[1],,metropolitan area2,"Rio de Janeiro, Brazil",,
+6450,RIZ,,Rizhao Shanzihe Airport,"Rizhao, Shandong, China",,
+6454,RJI,,Rajouri Airport[1],"Rajouri, Jammu and Kashmir, India",,
+6457,RJM,,Marinda Airport[1],"Waisai, Indonesia",,
+6468,RKU,,Kairuku Airport[1],"Yule Island, Papua New Guinea",,
+6471,RKY,,Rokeby Airport[1],"Rokeby, Queensland, Australia",,
+6477,RLP,,Rosella Plains Airport[1],"Rosella Plains, Queensland, Australia",,
+6478,RLR,,Relais de la Reine Airport[1],"Isalo, Madagascar",,
+6489,RMN,,Rumginae Airport,"Rumginae, Papua New Guinea",,
+6501,RNG,,Rangely Airport[1] (FAA: 4V0),"Rangely, Colorado, United States",,
+6509,RNP,,Rongelap Airport,"Rongelap Atoll, Marshall Islands",,
+6510,RNR,,Robinson River Airport[1],"Robinson River, Papua New Guinea",,
+6519,ROF,,Montague Airport[1] (Yreka Rohrer Field) (FAA: 1O5),"Montague / Yreka, California, United States",,
+6524,ROL,,Roosevelt Municipal Airport,"Roosevelt, Utah, United States",,
+6525,ROM[1],,metropolitan area3,"Rome, Lazio, Italy",,
+6540,RPI,,Rampi Airport,"Rampi, Indonesia",,
+6544,RPV,,Roper Valley Airport[1],"Roper Valley, Northern Territory, Australia",,
+6547,RQW,,Qayyarah Airfield West[1],"Qayyarah, Iraq",,
+6548,RRE,,Marree Airport[1],"Marree, South Australia, Australia",,
+6550,RRI,,Barora Airport[1],"Barora, Solomon Islands",,
+6554,RRM,,Marromeu Airport[1],"Marromeu, Mozambique",,
+6558,RRV,,Robinson River Airport[1],"Robinson River, Northern Territory, Australia",,
+6560,RSB,,Roseberth Airport[1],"Roseberth, Queensland, Australia",,
+6562,RSE,,Rose Bay Water Airport[1],"Sydney, New South Wales, Australia",,
+6564,RSI,,Red Sea International Airport,"Red Sea Project, Tabuk Province, Saudi Arabia",,
+6565,RSJ,,Rosario Seaplane Base (FAA: W49),"Orcas Island, Washington, United States",,
+6573,RSX,,Rouses Point Seaplane Base[1] (FAA: K21),"Rouses Point, New York, United States",,
+6578,RTI,,David Constantijn Saudale Airport[1],"Rote Island (Roti), Indonesia",,
+6579,RTL,,Spirit Lake Municipal Airport[1] (FAA: 0F3),"Spirit Lake, Iowa, United States",,
+6588,RUE,,Butembo Airport[1],"Butembo, Democratic Republic of the Congo",,
+6601,RUU,,Ruti Airport[1],"Kawbenaberi, Papua New Guinea",,
+6605,RVC,,River Cess Airport[1],"River Cess, Liberia",,
+6613,RVR,,Green River Municipal Airport[1] (FAA: U34),"Green River, Utah, United States",,
+6622,RXA,,Ar Rawdah Airport[1],"Ar Rawdah (Raudha), Yemen",,
+6628,RYL,,Royal Airstrip[1],"Lower Zambezi National Park, Zambia",,
