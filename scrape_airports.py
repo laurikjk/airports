@@ -21,7 +21,7 @@ def find_column_names(url_prefix, letter):
     )
     return [th.text.strip() for th in th_elems]
 
-def scrape_airports(url_prefix):
+def scrape_airports_by_iata(url_prefix):
     columns = find_column_names(url_prefix, A_TO_Z_UPPERCASE[0])
 
     data = pd.DataFrame(columns=columns)
@@ -42,7 +42,5 @@ def scrape_airports(url_prefix):
                 data = data.append(pd.Series(cell_values, index=columns), ignore_index=True)
     return data
 
-res = scrape_airports("https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:")
-print(res)
             
     
