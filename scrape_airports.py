@@ -1,4 +1,3 @@
-import random
 import requests
 import string
 import pandas as pd
@@ -21,6 +20,19 @@ def find_column_names(url_prefix, letter):
     )
     return [th.text.strip() for th in th_elems]
 
+def elements_to_text(elements):
+    return [element.text.strip() for element in elements]
+
+def find_table_cell_values(page, cell_amnt):
+    soup = BeautifulSoup(page.content, features="lxml")
+    rows = soup.find('table').find_all('tr')
+    cells_as_arrays = [row.find_all('td') for row in rows]
+    return [elements_to_text(cell_array)
+        for cell_array
+        in cells_as_arrays
+        if cell_array
+        and len(cell_array) == cell_amnt]
+
 def scrape_airports_by_iata(url_prefix):
     columns = find_column_names(url_prefix, A_TO_Z_UPPERCASE[0])
 
@@ -31,16 +43,9 @@ def scrape_airports_by_iata(url_prefix):
             f'{url_prefix}_{letter}',
             headers=HEADERS
         )
-        rows = (
-            BeautifulSoup(page.content, features="lxml")
-                .find('table')
-                .find_all('tr')
+        df = pd.DataFrame(
+            find_table_cell_values(page, len(columns)),
+            columns=columns
         )
-        for row in rows:
-            cell_values = [cell.text.strip() for cell in row.find_all('td')]
-            if cell_values and len(cell_values) == len(columns):
-                data = data.append(pd.Series(cell_values, index=columns), ignore_index=True)
+        data = data.append(df, ignore_index=True)
     return data
-
-            
-    
